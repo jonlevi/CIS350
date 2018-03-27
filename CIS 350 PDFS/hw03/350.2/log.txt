@@ -1,0 +1,77 @@
+1519577994140 (CommandLineUserInterface): Could not open datafile!
+1519577994250 (CommandLineUserInterface): Starting application
+1519577996395 (CommandLineUserInterface): User input: 4
+1519578000053 (CommandLineUserInterface): Trying to search for range starting with: 1999
+1519578004242 (CommandLineUserInterface): Trying to search for range starting with: 2003
+1519578004242 (Data Processor): getting data for range: 1999 to 2003
+1519578236500 (DataStore): populating ArrayList
+1519578236525 (CommandLineUserInterface): Starting application
+1519578239029 (CommandLineUserInterface): User input: 4
+1519578240859 (CommandLineUserInterface): Trying to search for range starting with: 2001
+1519578242096 (CommandLineUserInterface): Trying to search for range starting with: 2003
+1519578242097 (Data Processor): getting data for range: 2001 to 2003
+1519578242097 (DataStore): Looking in cache for key: 2001-2003
+1519578242097 (Data Processor): getting data for year: 2001
+1519578242097 (Data Processor): getting data for year: 2002
+1519578242097 (Data Processor): getting data for year: 2003
+1519578242097 (DataStore): Adding to cache for key: 2001-2003 and value:In 2001 the Baltimore Ravens defeated the New York Giants by a score of 34-7 in Super Bowl XXXV in Tampa,Florida
+In 2002 the New England Patriots defeated the St. Louis Rams by a score of 20-17 in Super Bowl XXXVI in New Orleans,Louisiana
+In 2003 the Tampa Bay Buccaneers defeated the Oakland Raiders by a score of 48-21 in Super Bowl XXXVII in San Diego,California
+
+1519578242099 (CommandLineUserInterface): User input: 
+1519578252041 (CommandLineUserInterface): User input: 4
+1519578253904 (CommandLineUserInterface): Trying to search for range starting with: 1999
+1519578255148 (CommandLineUserInterface): Trying to search for range starting with: 2003
+1519578255148 (Data Processor): getting data for range: 1999 to 2003
+1519578255149 (DataStore): Looking in cache for key: 1999-2003
+1519578255149 (Data Processor): getting data for year: 1999
+1519578255149 (Data Processor): getting data for year: 2000
+1519578255149 (Data Processor): getting data for year: 2001
+1519578255149 (Data Processor): getting data for year: 2002
+1519578255149 (Data Processor): getting data for year: 2003
+1519578255149 (DataStore): Adding to cache for key: 1999-2003 and value:In 1999 the Denver Broncos defeated the Atlanta Falcons by a score of 34-19 in Super Bowl XXXIII in Miami Gardens,Florida
+In 2000 the St. Louis Rams defeated the Tennessee Titans by a score of 23-16 in Super Bowl XXXIV in Atlanta,Georgia
+In 2001 the Baltimore Ravens defeated the New York Giants by a score of 34-7 in Super Bowl XXXV in Tampa,Florida
+In 2002 the New England Patriots defeated the St. Louis Rams by a score of 20-17 in Super Bowl XXXVI in New Orleans,Louisiana
+In 2003 the Tampa Bay Buccaneers defeated the Oakland Raiders by a score of 48-21 in Super Bowl XXXVII in San Diego,California
+
+1519578255150 (CommandLineUserInterface): User input: 
+1519578260846 (CommandLineUserInterface): User input: 4
+1519578262182 (CommandLineUserInterface): Trying to search for range starting with: 1999
+1519578263403 (CommandLineUserInterface): Trying to search for range starting with: 2003
+1519578263403 (Data Processor): getting data for range: 1999 to 2003
+1519578263403 (DataStore): Looking in cache for key: 1999-2003
+1519578263404 (CommandLineUserInterface): User input: 
+1519578266311 (CommandLineUserInterface): User input: 
+1519578266786 (CommandLineUserInterface): User input: 
+1519578267033 (CommandLineUserInterface): User input: 
+1519578267499 (CommandLineUserInterface): User input: 
+1519578268000 (CommandLineUserInterface): User input: 
+1519578268084 (CommandLineUserInterface): User input: 
+1519578268168 (CommandLineUserInterface): User input: 
+1519578268253 (CommandLineUserInterface): User input: 
+1519578268337 (CommandLineUserInterface): User input: 
+1519578268422 (CommandLineUserInterface): User input: 
+1519578268506 (CommandLineUserInterface): User input: 
+1519578268590 (CommandLineUserInterface): User input: 
+1519578268675 (CommandLineUserInterface): User input: 
+1519578268759 (CommandLineUserInterface): User input: 
+1519578268844 (CommandLineUserInterface): User input: 
+1519578268928 (CommandLineUserInterface): User input: 
+1519578269013 (CommandLineUserInterface): User input: 
+1519578269097 (CommandLineUserInterface): User input: 
+1519578269181 (CommandLineUserInterface): User input: 
+1519578269265 (CommandLineUserInterface): User input: 
+1519578269350 (CommandLineUserInterface): User input: 
+1519578269434 (CommandLineUserInterface): User input: 
+1519578269519 (CommandLineUserInterface): User input: 
+1519578269744 (CommandLineUserInterface): User input: l
+1519578271525 (CommandLineUserInterface): User input: 5
+1519578271525 (CommandLineUserInterface): Trying to assemble winners by team
+1519578271529 (Data Processor): Trying to display all teams
+1519578278053 (CommandLineUserInterface): User input: 4
+1519578280799 (CommandLineUserInterface): Trying to search for range starting with: 1999
+1519578282737 (CommandLineUserInterface): Trying to search for range starting with: 2003
+1519578282737 (Data Processor): getting data for range: 1999 to 2003
+1519578282737 (DataStore): Looking in cache for key: 1999-2003
+1519578282737 (CommandLineUserInterface): User input: 
