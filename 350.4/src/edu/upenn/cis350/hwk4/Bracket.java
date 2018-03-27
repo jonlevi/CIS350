@@ -9,9 +9,9 @@ public class Bracket extends Observer {
 	
 	private Map<Integer, Game> games;
 	private GameSimulator simulator;
-	private ElofileReader efr;
+	private EloFileReader efr;
 	
-	public Bracket(Map<Integer, Game> games, GameSimulator gs, ElofileReader efr) {
+	public Bracket(Map<Integer, Game> games, GameSimulator gs, EloFileReader efr) {
 		this.games = games;
 		this.simulator = gs;
 		this.efr = efr;

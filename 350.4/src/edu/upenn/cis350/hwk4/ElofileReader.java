@@ -10,7 +10,7 @@ import java.util.Set;
  * @author jonathanlevine
  *	Children Classes are responsible for Populating the nameToElo Map from their given filenames
  */
-public abstract class ElofileReader {
+public abstract class EloFileReader {
 	
 	protected Map<String, Team> nameToTeam = new HashMap<String, Team>();
 	

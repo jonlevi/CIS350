@@ -3,12 +3,12 @@ package edu.upenn.cis350.hwk4;
 
 public class DataController {
 	
-	ElofileReader eloReader;
+	EloFileReader eloReader;
 	GamesReader gamesReader;
 
 
 	public DataController(String elofile, String gamesfile) {
-		ElofileFactory ef = new ElofileFactory(elofile);
+		EloFileFactory ef = new EloFileFactory(elofile);
 		eloReader = ef.getReader();
 		if (eloReader == null) {
 			Logger.getInstance().log("There was a Problem with the Elo File. System exiting..");

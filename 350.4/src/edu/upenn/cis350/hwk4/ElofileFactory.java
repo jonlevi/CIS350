@@ -1,10 +1,10 @@
 package edu.upenn.cis350.hwk4;
 
-public class ElofileFactory {
+public class EloFileFactory {
 	
-	private ElofileReader reader;
+	private EloFileReader reader;
 
-	public ElofileFactory(String filename) {
+	public EloFileFactory(String filename) {
 		
 		if (filename.endsWith("csv")) {
 			reader = new EloCSVReader(filename);
@@ -14,7 +14,7 @@ public class ElofileFactory {
 		
 	}
 	
-	public ElofileReader getReader() {
+	public EloFileReader getReader() {
 		return reader;
 	}
 

@@ -9,7 +9,7 @@ import java.util.List;
 import java.util.Map;
 
 
-public class EloCSVReader extends ElofileReader {
+public class EloCSVReader extends EloFileReader {
 		
 	public EloCSVReader(String filename) {
 		try {

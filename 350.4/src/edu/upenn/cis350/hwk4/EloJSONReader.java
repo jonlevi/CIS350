@@ -8,7 +8,7 @@ import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 import org.json.JSONException;
 
-public class EloJSONReader extends ElofileReader {
+public class EloJSONReader extends EloFileReader {
 	
 	
 	public EloJSONReader(String filename) {
