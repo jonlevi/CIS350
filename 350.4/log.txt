@@ -1,0 +1,1636 @@
+System starting up with args eloMen.csv gamesMen.csv log.txt
+User entered 1
+User entered 
+User entered duke
+User entered kansas
+duke beat kansas by simulation
+User entered 3
+User entered 
+User entered duke
+User entered 2100.0
+User changed Elo for duke to 2100.0
+User entered 1
+User entered 
+User entered duke
+User entered kansas
+duke beat kansas by simulation
+User entered 4
+User chose to exit. System exiting
+System starting up with args eloMen.csv gamesMen.csv log.txt
+User entered 2
+User entered 1
+User chose simulation option 1
+Simulated Tournament: 
+=====Team Results===== 
+alabama: 0W - 1L; Elo: 1763.00 
+arizona: 1W - 1L; Elo: 1944.00 
+arizona state: 0W - 1L; Elo: 1648.00 
+arkansas: 0W - 1L; Elo: 1845.00 
+auburn: 0W - 1L; Elo: 1793.00 
+bucknell: 1W - 1L; Elo: 1708.00 
+buffalo: 0W - 1L; Elo: 1740.00 
+butler: 5W - 1L; Elo: 1771.00 
+cal state fullerton: 0W - 1L; Elo: 1573.00 
+charleston: 1W - 1L; Elo: 1739.00 
+cincinnati: 1W - 1L; Elo: 1978.00 
+clemson: 0W - 1L; Elo: 1813.00 
+creighton: 0W - 1L; Elo: 1765.00 
+davidson: 0W - 1L; Elo: 1778.00 
+duke: 1W - 1L; Elo: 1932.00 
+florida: 0W - 1L; Elo: 1814.00 
+florida state: 2W - 1L; Elo: 1758.00 
+georgia state: 0W - 1L; Elo: 1621.00 
+gonzaga: 0W - 1L; Elo: 1931.00 
+houston: 1W - 1L; Elo: 1842.00 
+iona: 0W - 1L; Elo: 1565.00 
+kansas: 1W - 1L; Elo: 2005.00 
+kansas state: 1W - 1L; Elo: 1838.00 
+kentucky: 2W - 1L; Elo: 1914.00 
+lipscomb: 0W - 1L; Elo: 1609.00 
+liu brooklyn: 2W - 1L; Elo: 1465.00 
+loyola-chicago: 2W - 1L; Elo: 1821.00 
+marshall: 0W - 1L; Elo: 1697.00 
+miami: 0W - 1L; Elo: 1862.00 
+michigan: 0W - 1L; Elo: 1978.00 
+michigan state: 0W - 1L; Elo: 1992.00 
+missouri: 0W - 1L; Elo: 1774.00 
+montana: 2W - 1L; Elo: 1681.00 
+murray state: 1W - 1L; Elo: 1710.00 
+nc central: 0W - 1L; Elo: 1390.00 
+nc greensboro: 1W - 1L; Elo: 1726.00 
+nc state: 0W - 1L; Elo: 1765.00 
+nevada: 6W - 0L; Elo: 1789.00 
+new mexico state: 2W - 1L; Elo: 1755.00 
+north carolina: 1W - 1L; Elo: 1923.00 
+ohio state: 0W - 1L; Elo: 1808.00 
+oklahoma: 0W - 1L; Elo: 1749.00 
+penn: 0W - 1L; Elo: 1671.00 
+providence: 3W - 1L; Elo: 1822.00 
+purdue: 1W - 1L; Elo: 1916.00 
+radford: 0W - 1L; Elo: 1541.00 
+rhode island: 3W - 1L; Elo: 1798.00 
+san diego state: 0W - 1L; Elo: 1778.00 
+seton hall: 4W - 1L; Elo: 1789.00 
+south dakota state: 4W - 1L; Elo: 1763.00 
+st. bonaventure: 3W - 1L; Elo: 1799.00 
+stephen f. austin: 1W - 1L; Elo: 1634.00 
+syracuse: 3W - 1L; Elo: 1748.00 
+tcu: 0W - 1L; Elo: 1824.00 
+tennessee: 1W - 1L; Elo: 1890.00 
+texas: 0W - 1L; Elo: 1807.00 
+texas a&m: 0W - 1L; Elo: 1796.00 
+texas southern: 2W - 1L; Elo: 1439.00 
+texas tech: 0W - 1L; Elo: 1862.00 
+ucla: 0W - 1L; Elo: 1800.00 
+umbc: 0W - 1L; Elo: 1626.00 
+villanova: 0W - 1L; Elo: 2008.00 
+virginia: 3W - 1L; Elo: 2082.00 
+virginia tech: 3W - 1L; Elo: 1809.00 
+west virginia: 0W - 1L; Elo: 1903.00 
+wichita state: 2W - 1L; Elo: 1871.00 
+wright state: 0W - 1L; Elo: 1623.00 
+xavier: 0W - 1L; Elo: 1968.00 
+
+ 
+=====Game Results===== 
+Game #1: liu brooklyn vs. radford. The winner was liu brooklyn
+Game #2: st. bonaventure vs. ucla. The winner was st. bonaventure
+Game #3: nc central vs. texas southern. The winner was texas southern
+Game #4: arizona state vs. syracuse. The winner was syracuse
+Game #5: virginia vs. umbc. The winner was virginia
+Game #6: creighton vs. kansas state. The winner was kansas state
+Game #7: kentucky vs. davidson. The winner was kentucky
+Game #8: arizona vs. buffalo. The winner was arizona
+Game #9: miami vs. loyola-chicago. The winner was loyola-chicago
+Game #10: tennessee vs. wright state. The winner was tennessee
+Game #11: nevada vs. texas. The winner was nevada
+Game #12: cincinnati vs. georgia state. The winner was cincinnati
+Game #13: xavier vs. texas southern. The winner was texas southern
+Game #14: missouri vs. florida state. The winner was florida state
+Game #15: ohio state vs. south dakota state. The winner was south dakota state
+Game #16: gonzaga vs. nc greensboro. The winner was nc greensboro
+Game #17: houston vs. san diego state. The winner was houston
+Game #18: michigan vs. montana. The winner was montana
+Game #19: texas a&m vs. providence. The winner was providence
+Game #20: north carolina vs. lipscomb. The winner was north carolina
+Game #21: villanova vs. liu brooklyn. The winner was liu brooklyn
+Game #22: virginia tech vs. alabama. The winner was virginia tech
+Game #23: west virginia vs. murray state. The winner was murray state
+Game #24: wichita state vs. marshall. The winner was wichita state
+Game #25: florida vs. st. bonaventure. The winner was st. bonaventure
+Game #26: texas tech vs. stephen f. austin. The winner was stephen f. austin
+Game #27: arkansas vs. butler. The winner was butler
+Game #28: purdue vs. cal state fullerton. The winner was purdue
+Game #29: kansas vs. penn. The winner was kansas
+Game #30: seton hall vs. nc state. The winner was seton hall
+Game #31: clemson vs. new mexico state. The winner was new mexico state
+Game #32: auburn vs. charleston. The winner was charleston
+Game #33: tcu vs. syracuse. The winner was syracuse
+Game #34: michigan state vs. bucknell. The winner was bucknell
+Game #35: rhode island vs. oklahoma. The winner was rhode island
+Game #36: duke vs. iona. The winner was duke
+Game #37: virginia vs. kansas state. The winner was virginia
+Game #38: kentucky vs. arizona. The winner was kentucky
+Game #39: loyola-chicago vs. tennessee. The winner was loyola-chicago
+Game #40: nevada vs. cincinnati. The winner was nevada
+Game #41: texas southern vs. florida state. The winner was florida state
+Game #42: south dakota state vs. nc greensboro. The winner was south dakota state
+Game #43: houston vs. montana. The winner was montana
+Game #44: providence vs. north carolina. The winner was providence
+Game #45: liu brooklyn vs. virginia tech. The winner was virginia tech
+Game #46: murray state vs. wichita state. The winner was wichita state
+Game #47: st. bonaventure vs. stephen f. austin. The winner was st. bonaventure
+Game #48: butler vs. purdue. The winner was butler
+Game #49: kansas vs. seton hall. The winner was seton hall
+Game #50: new mexico state vs. charleston. The winner was new mexico state
+Game #51: syracuse vs. bucknell. The winner was syracuse
+Game #52: rhode island vs. duke. The winner was rhode island
+Game #53: virginia vs. kentucky. The winner was virginia
+Game #54: loyola-chicago vs. nevada. The winner was nevada
+Game #55: florida state vs. south dakota state. The winner was south dakota state
+Game #56: montana vs. providence. The winner was providence
+Game #57: virginia tech vs. wichita state. The winner was virginia tech
+Game #58: st. bonaventure vs. butler. The winner was butler
+Game #59: seton hall vs. new mexico state. The winner was seton hall
+Game #60: syracuse vs. rhode island. The winner was rhode island
+Game #61: virginia vs. nevada. The winner was nevada
+Game #62: south dakota state vs. providence. The winner was south dakota state
+Game #63: virginia tech vs. butler. The winner was butler
+Game #64: seton hall vs. rhode island. The winner was seton hall
+Game #65: nevada vs. south dakota state. The winner was nevada
+Game #66: butler vs. seton hall. The winner was butler
+Game #67: nevada vs. butler. The winner was nevada
+
+User entered 3
+User entered 
+User entered penn
+User entered 0.0
+User changed Elo for penn to 0.0
+User entered 2
+User entered 4
+User chose simulation option 4
+Simulated Tournament: 
+=====Team Results===== 
+alabama: 1W - 1L; Elo: 1763.00 
+arizona: 1W - 1L; Elo: 1944.00 
+arizona state: 0W - 1L; Elo: 1648.00 
+arkansas: 3W - 1L; Elo: 1845.00 
+auburn: 1W - 1L; Elo: 1793.00 
+bucknell: 0W - 1L; Elo: 1708.00 
+buffalo: 0W - 1L; Elo: 1740.00 
+butler: 0W - 1L; Elo: 1771.00 
+cal state fullerton: 0W - 1L; Elo: 1573.00 
+charleston: 0W - 1L; Elo: 1739.00 
+cincinnati: 1W - 1L; Elo: 1978.00 
+clemson: 0W - 1L; Elo: 1813.00 
+creighton: 1W - 1L; Elo: 1765.00 
+davidson: 2W - 1L; Elo: 1778.00 
+duke: 2W - 1L; Elo: 1932.00 
+florida: 2W - 1L; Elo: 1814.00 
+florida state: 1W - 1L; Elo: 1758.00 
+georgia state: 0W - 1L; Elo: 1621.00 
+gonzaga: 0W - 1L; Elo: 1931.00 
+houston: 1W - 1L; Elo: 1842.00 
+iona: 0W - 1L; Elo: 1565.00 
+kansas: 0W - 1L; Elo: 2005.00 
+kansas state: 0W - 1L; Elo: 1838.00 
+kentucky: 0W - 1L; Elo: 1914.00 
+lipscomb: 0W - 1L; Elo: 1609.00 
+liu brooklyn: 1W - 1L; Elo: 1465.00 
+loyola-chicago: 0W - 1L; Elo: 1821.00 
+marshall: 1W - 1L; Elo: 1697.00 
+miami: 1W - 1L; Elo: 1862.00 
+michigan: 2W - 1L; Elo: 1978.00 
+michigan state: 3W - 1L; Elo: 1992.00 
+missouri: 0W - 1L; Elo: 1774.00 
+montana: 0W - 1L; Elo: 1681.00 
+murray state: 0W - 1L; Elo: 1710.00 
+nc central: 0W - 1L; Elo: 1390.00 
+nc greensboro: 2W - 1L; Elo: 1726.00 
+nc state: 0W - 1L; Elo: 1765.00 
+nevada: 5W - 1L; Elo: 1789.00 
+new mexico state: 2W - 1L; Elo: 1755.00 
+north carolina: 3W - 1L; Elo: 1923.00 
+ohio state: 0W - 1L; Elo: 1808.00 
+oklahoma: 0W - 1L; Elo: 1749.00 
+penn: 6W - 0L; Elo: 0.00 
+providence: 0W - 1L; Elo: 1822.00 
+purdue: 1W - 1L; Elo: 1916.00 
+radford: 0W - 1L; Elo: 1541.00 
+rhode island: 1W - 1L; Elo: 1798.00 
+san diego state: 0W - 1L; Elo: 1778.00 
+seton hall: 1W - 1L; Elo: 1789.00 
+south dakota state: 1W - 1L; Elo: 1763.00 
+st. bonaventure: 1W - 1L; Elo: 1799.00 
+stephen f. austin: 0W - 1L; Elo: 1634.00 
+syracuse: 1W - 1L; Elo: 1748.00 
+tcu: 1W - 1L; Elo: 1824.00 
+tennessee: 2W - 1L; Elo: 1890.00 
+texas: 0W - 1L; Elo: 1807.00 
+texas a&m: 1W - 1L; Elo: 1796.00 
+texas southern: 1W - 1L; Elo: 1439.00 
+texas tech: 1W - 1L; Elo: 1862.00 
+ucla: 0W - 1L; Elo: 1800.00 
+umbc: 0W - 1L; Elo: 1626.00 
+villanova: 2W - 1L; Elo: 2008.00 
+virginia: 3W - 1L; Elo: 2082.00 
+virginia tech: 0W - 1L; Elo: 1809.00 
+west virginia: 4W - 1L; Elo: 1903.00 
+wichita state: 0W - 1L; Elo: 1871.00 
+wright state: 0W - 1L; Elo: 1623.00 
+xavier: 4W - 1L; Elo: 1968.00 
+
+ 
+=====Game Results===== 
+Game #1: liu brooklyn vs. radford. The winner was liu brooklyn
+Game #2: st. bonaventure vs. ucla. The winner was st. bonaventure
+Game #3: nc central vs. texas southern. The winner was texas southern
+Game #4: arizona state vs. syracuse. The winner was syracuse
+Game #5: virginia vs. umbc. The winner was virginia
+Game #6: creighton vs. kansas state. The winner was creighton
+Game #7: kentucky vs. davidson. The winner was davidson
+Game #8: arizona vs. buffalo. The winner was arizona
+Game #9: miami vs. loyola-chicago. The winner was miami
+Game #10: tennessee vs. wright state. The winner was tennessee
+Game #11: nevada vs. texas. The winner was nevada
+Game #12: cincinnati vs. georgia state. The winner was cincinnati
+Game #13: xavier vs. texas southern. The winner was xavier
+Game #14: missouri vs. florida state. The winner was florida state
+Game #15: ohio state vs. south dakota state. The winner was south dakota state
+Game #16: gonzaga vs. nc greensboro. The winner was nc greensboro
+Game #17: houston vs. san diego state. The winner was houston
+Game #18: michigan vs. montana. The winner was michigan
+Game #19: texas a&m vs. providence. The winner was texas a&m
+Game #20: north carolina vs. lipscomb. The winner was north carolina
+Game #21: villanova vs. liu brooklyn. The winner was villanova
+Game #22: virginia tech vs. alabama. The winner was alabama
+Game #23: west virginia vs. murray state. The winner was west virginia
+Game #24: wichita state vs. marshall. The winner was marshall
+Game #25: florida vs. st. bonaventure. The winner was florida
+Game #26: texas tech vs. stephen f. austin. The winner was texas tech
+Game #27: arkansas vs. butler. The winner was arkansas
+Game #28: purdue vs. cal state fullerton. The winner was purdue
+Game #29: kansas vs. penn. The winner was penn
+Game #30: seton hall vs. nc state. The winner was seton hall
+Game #31: clemson vs. new mexico state. The winner was new mexico state
+Game #32: auburn vs. charleston. The winner was auburn
+Game #33: tcu vs. syracuse. The winner was tcu
+Game #34: michigan state vs. bucknell. The winner was michigan state
+Game #35: rhode island vs. oklahoma. The winner was rhode island
+Game #36: duke vs. iona. The winner was duke
+Game #37: virginia vs. creighton. The winner was virginia
+Game #38: davidson vs. arizona. The winner was davidson
+Game #39: miami vs. tennessee. The winner was tennessee
+Game #40: nevada vs. cincinnati. The winner was nevada
+Game #41: xavier vs. florida state. The winner was xavier
+Game #42: south dakota state vs. nc greensboro. The winner was nc greensboro
+Game #43: houston vs. michigan. The winner was michigan
+Game #44: texas a&m vs. north carolina. The winner was north carolina
+Game #45: villanova vs. alabama. The winner was villanova
+Game #46: west virginia vs. marshall. The winner was west virginia
+Game #47: florida vs. texas tech. The winner was florida
+Game #48: arkansas vs. purdue. The winner was arkansas
+Game #49: penn vs. seton hall. The winner was penn
+Game #50: new mexico state vs. auburn. The winner was new mexico state
+Game #51: tcu vs. michigan state. The winner was michigan state
+Game #52: rhode island vs. duke. The winner was duke
+Game #53: virginia vs. davidson. The winner was virginia
+Game #54: tennessee vs. nevada. The winner was nevada
+Game #55: xavier vs. nc greensboro. The winner was xavier
+Game #56: michigan vs. north carolina. The winner was north carolina
+Game #57: villanova vs. west virginia. The winner was west virginia
+Game #58: florida vs. arkansas. The winner was arkansas
+Game #59: penn vs. new mexico state. The winner was penn
+Game #60: michigan state vs. duke. The winner was michigan state
+Game #61: virginia vs. nevada. The winner was nevada
+Game #62: xavier vs. north carolina. The winner was xavier
+Game #63: west virginia vs. arkansas. The winner was west virginia
+Game #64: penn vs. michigan state. The winner was penn
+Game #65: nevada vs. xavier. The winner was nevada
+Game #66: west virginia vs. penn. The winner was penn
+Game #67: nevada vs. penn. The winner was penn
+
+System starting up with args eloMen.csv gamesMen.csv log.txt
+User entered 4
+User chose to exit. System exiting
+System starting up with args eloMen.csv gamesMen.csv log.txt
+User entered 3
+User entered 
+User entered penn
+User entered 10.0
+User changed Elo for penn to 10.0
+User entered 3
+User entered 
+User entered duke
+User entered 20.0
+User changed Elo for duke to 20.0
+User entered 1
+User entered 
+User entered penn
+User entered duke
+penn beat duke by simulation
+System starting up with args eloMen.csv gamesMen.csv log.txt
+User entered 2
+User entered 1
+User chose simulation option 1
+Simulated Tournament: 
+=====Team Results===== 
+alabama: 2W - 1L; Elo: 1763.00 
+arizona: 1W - 1L; Elo: 1944.00 
+arizona state: 0W - 1L; Elo: 1648.00 
+arkansas: 1W - 1L; Elo: 1845.00 
+auburn: 0W - 1L; Elo: 1793.00 
+bucknell: 0W - 1L; Elo: 1708.00 
+buffalo: 0W - 1L; Elo: 1740.00 
+butler: 0W - 1L; Elo: 1771.00 
+cal state fullerton: 4W - 1L; Elo: 1573.00 
+charleston: 1W - 1L; Elo: 1739.00 
+cincinnati: 1W - 1L; Elo: 1978.00 
+clemson: 2W - 1L; Elo: 1813.00 
+creighton: 2W - 1L; Elo: 1765.00 
+davidson: 0W - 1L; Elo: 1778.00 
+duke: 1W - 1L; Elo: 1932.00 
+florida: 1W - 1L; Elo: 1814.00 
+florida state: 1W - 1L; Elo: 1758.00 
+georgia state: 0W - 1L; Elo: 1621.00 
+gonzaga: 1W - 1L; Elo: 1931.00 
+houston: 0W - 1L; Elo: 1842.00 
+iona: 0W - 1L; Elo: 1565.00 
+kansas: 0W - 1L; Elo: 2005.00 
+kansas state: 0W - 1L; Elo: 1838.00 
+kentucky: 4W - 1L; Elo: 1914.00 
+lipscomb: 0W - 1L; Elo: 1609.00 
+liu brooklyn: 1W - 1L; Elo: 1465.00 
+loyola-chicago: 0W - 1L; Elo: 1821.00 
+marshall: 1W - 1L; Elo: 1697.00 
+miami: 1W - 1L; Elo: 1862.00 
+michigan: 2W - 1L; Elo: 1978.00 
+michigan state: 1W - 1L; Elo: 1992.00 
+missouri: 0W - 1L; Elo: 1774.00 
+montana: 0W - 1L; Elo: 1681.00 
+murray state: 0W - 1L; Elo: 1710.00 
+nc central: 3W - 1L; Elo: 1390.00 
+nc greensboro: 0W - 1L; Elo: 1726.00 
+nc state: 6W - 0L; Elo: 1765.00 
+nevada: 0W - 1L; Elo: 1789.00 
+new mexico state: 0W - 1L; Elo: 1755.00 
+north carolina: 3W - 1L; Elo: 1923.00 
+ohio state: 0W - 1L; Elo: 1808.00 
+oklahoma: 0W - 1L; Elo: 1749.00 
+penn: 1W - 1L; Elo: 1671.00 
+providence: 1W - 1L; Elo: 1822.00 
+purdue: 0W - 1L; Elo: 1916.00 
+radford: 0W - 1L; Elo: 1541.00 
+rhode island: 2W - 1L; Elo: 1798.00 
+san diego state: 1W - 1L; Elo: 1778.00 
+seton hall: 0W - 1L; Elo: 1789.00 
+south dakota state: 5W - 1L; Elo: 1763.00 
+st. bonaventure: 1W - 1L; Elo: 1799.00 
+stephen f. austin: 2W - 1L; Elo: 1634.00 
+syracuse: 1W - 1L; Elo: 1748.00 
+tcu: 3W - 1L; Elo: 1824.00 
+tennessee: 0W - 1L; Elo: 1890.00 
+texas: 3W - 1L; Elo: 1807.00 
+texas a&m: 0W - 1L; Elo: 1796.00 
+texas southern: 0W - 1L; Elo: 1439.00 
+texas tech: 0W - 1L; Elo: 1862.00 
+ucla: 0W - 1L; Elo: 1800.00 
+umbc: 0W - 1L; Elo: 1626.00 
+villanova: 1W - 1L; Elo: 2008.00 
+virginia: 1W - 1L; Elo: 2082.00 
+virginia tech: 0W - 1L; Elo: 1809.00 
+west virginia: 3W - 1L; Elo: 1903.00 
+wichita state: 0W - 1L; Elo: 1871.00 
+wright state: 2W - 1L; Elo: 1623.00 
+xavier: 0W - 1L; Elo: 1968.00 
+
+ 
+=====Game Results===== 
+Game #1: liu brooklyn vs. radford. The winner was liu brooklyn
+Game #2: st. bonaventure vs. ucla. The winner was st. bonaventure
+Game #3: nc central vs. texas southern. The winner was nc central
+Game #4: arizona state vs. syracuse. The winner was syracuse
+Game #5: virginia vs. umbc. The winner was virginia
+Game #6: creighton vs. kansas state. The winner was creighton
+Game #7: kentucky vs. davidson. The winner was kentucky
+Game #8: arizona vs. buffalo. The winner was arizona
+Game #9: miami vs. loyola-chicago. The winner was miami
+Game #10: tennessee vs. wright state. The winner was wright state
+Game #11: nevada vs. texas. The winner was texas
+Game #12: cincinnati vs. georgia state. The winner was cincinnati
+Game #13: xavier vs. nc central. The winner was nc central
+Game #14: missouri vs. florida state. The winner was florida state
+Game #15: ohio state vs. south dakota state. The winner was south dakota state
+Game #16: gonzaga vs. nc greensboro. The winner was gonzaga
+Game #17: houston vs. san diego state. The winner was san diego state
+Game #18: michigan vs. montana. The winner was michigan
+Game #19: texas a&m vs. providence. The winner was providence
+Game #20: north carolina vs. lipscomb. The winner was north carolina
+Game #21: villanova vs. liu brooklyn. The winner was villanova
+Game #22: virginia tech vs. alabama. The winner was alabama
+Game #23: west virginia vs. murray state. The winner was west virginia
+Game #24: wichita state vs. marshall. The winner was marshall
+Game #25: florida vs. st. bonaventure. The winner was florida
+Game #26: texas tech vs. stephen f. austin. The winner was stephen f. austin
+Game #27: arkansas vs. butler. The winner was arkansas
+Game #28: purdue vs. cal state fullerton. The winner was cal state fullerton
+Game #29: kansas vs. penn. The winner was penn
+Game #30: seton hall vs. nc state. The winner was nc state
+Game #31: clemson vs. new mexico state. The winner was clemson
+Game #32: auburn vs. charleston. The winner was charleston
+Game #33: tcu vs. syracuse. The winner was tcu
+Game #34: michigan state vs. bucknell. The winner was michigan state
+Game #35: rhode island vs. oklahoma. The winner was rhode island
+Game #36: duke vs. iona. The winner was duke
+Game #37: virginia vs. creighton. The winner was creighton
+Game #38: kentucky vs. arizona. The winner was kentucky
+Game #39: miami vs. wright state. The winner was wright state
+Game #40: texas vs. cincinnati. The winner was texas
+Game #41: nc central vs. florida state. The winner was nc central
+Game #42: south dakota state vs. gonzaga. The winner was south dakota state
+Game #43: san diego state vs. michigan. The winner was michigan
+Game #44: providence vs. north carolina. The winner was north carolina
+Game #45: villanova vs. alabama. The winner was alabama
+Game #46: west virginia vs. marshall. The winner was west virginia
+Game #47: florida vs. stephen f. austin. The winner was stephen f. austin
+Game #48: arkansas vs. cal state fullerton. The winner was cal state fullerton
+Game #49: penn vs. nc state. The winner was nc state
+Game #50: clemson vs. charleston. The winner was clemson
+Game #51: tcu vs. michigan state. The winner was tcu
+Game #52: rhode island vs. duke. The winner was rhode island
+Game #53: creighton vs. kentucky. The winner was kentucky
+Game #54: wright state vs. texas. The winner was texas
+Game #55: nc central vs. south dakota state. The winner was south dakota state
+Game #56: michigan vs. north carolina. The winner was north carolina
+Game #57: alabama vs. west virginia. The winner was west virginia
+Game #58: stephen f. austin vs. cal state fullerton. The winner was cal state fullerton
+Game #59: nc state vs. clemson. The winner was nc state
+Game #60: tcu vs. rhode island. The winner was tcu
+Game #61: kentucky vs. texas. The winner was kentucky
+Game #62: south dakota state vs. north carolina. The winner was south dakota state
+Game #63: west virginia vs. cal state fullerton. The winner was cal state fullerton
+Game #64: nc state vs. tcu. The winner was nc state
+Game #65: kentucky vs. south dakota state. The winner was south dakota state
+Game #66: cal state fullerton vs. nc state. The winner was nc state
+Game #67: south dakota state vs. nc state. The winner was nc state
+
+User entered 2
+User entered 2
+User chose simulation option 2
+Simulated Tournament: 
+=====Team Results===== 
+alabama: 0W - 1L; Elo: 1763.00 
+arizona: 0W - 1L; Elo: 1944.00 
+arizona state: 1W - 1L; Elo: 1648.00 
+arkansas: 0W - 1L; Elo: 1845.00 
+auburn: 0W - 1L; Elo: 1793.00 
+bucknell: 0W - 1L; Elo: 1708.00 
+buffalo: 1W - 1L; Elo: 1740.00 
+butler: 1W - 1L; Elo: 1771.00 
+cal state fullerton: 0W - 1L; Elo: 1573.00 
+charleston: 1W - 1L; Elo: 1739.00 
+cincinnati: 1W - 1L; Elo: 1978.00 
+clemson: 2W - 1L; Elo: 1813.00 
+creighton: 0W - 1L; Elo: 1765.00 
+davidson: 2W - 1L; Elo: 1778.00 
+duke: 3W - 1L; Elo: 1932.00 
+florida: 0W - 1L; Elo: 1814.00 
+florida state: 1W - 1L; Elo: 1758.00 
+georgia state: 0W - 1L; Elo: 1621.00 
+gonzaga: 0W - 1L; Elo: 1931.00 
+houston: 2W - 1L; Elo: 1842.00 
+iona: 0W - 1L; Elo: 1565.00 
+kansas: 4W - 1L; Elo: 2005.00 
+kansas state: 1W - 1L; Elo: 1838.00 
+kentucky: 0W - 1L; Elo: 1914.00 
+lipscomb: 0W - 1L; Elo: 1609.00 
+liu brooklyn: 0W - 1L; Elo: 1465.00 
+loyola-chicago: 0W - 1L; Elo: 1821.00 
+marshall: 2W - 1L; Elo: 1697.00 
+miami: 1W - 1L; Elo: 1862.00 
+michigan: 1W - 1L; Elo: 1978.00 
+michigan state: 1W - 1L; Elo: 1992.00 
+missouri: 0W - 1L; Elo: 1774.00 
+montana: 0W - 1L; Elo: 1681.00 
+murray state: 0W - 1L; Elo: 1710.00 
+nc central: 1W - 1L; Elo: 1390.00 
+nc greensboro: 1W - 1L; Elo: 1726.00 
+nc state: 1W - 1L; Elo: 1765.00 
+nevada: 0W - 1L; Elo: 1789.00 
+new mexico state: 0W - 1L; Elo: 1755.00 
+north carolina: 4W - 1L; Elo: 1923.00 
+ohio state: 3W - 1L; Elo: 1808.00 
+oklahoma: 1W - 1L; Elo: 1749.00 
+penn: 0W - 1L; Elo: 1671.00 
+providence: 0W - 1L; Elo: 1822.00 
+purdue: 3W - 1L; Elo: 1916.00 
+radford: 1W - 1L; Elo: 1541.00 
+rhode island: 0W - 1L; Elo: 1798.00 
+san diego state: 0W - 1L; Elo: 1778.00 
+seton hall: 0W - 1L; Elo: 1789.00 
+south dakota state: 0W - 1L; Elo: 1763.00 
+st. bonaventure: 3W - 1L; Elo: 1799.00 
+stephen f. austin: 0W - 1L; Elo: 1634.00 
+syracuse: 0W - 1L; Elo: 1748.00 
+tcu: 2W - 1L; Elo: 1824.00 
+tennessee: 3W - 1L; Elo: 1890.00 
+texas: 2W - 1L; Elo: 1807.00 
+texas a&m: 1W - 1L; Elo: 1796.00 
+texas southern: 0W - 1L; Elo: 1439.00 
+texas tech: 1W - 1L; Elo: 1862.00 
+ucla: 0W - 1L; Elo: 1800.00 
+umbc: 0W - 1L; Elo: 1626.00 
+villanova: 1W - 1L; Elo: 2008.00 
+virginia: 6W - 0L; Elo: 2082.00 
+virginia tech: 5W - 1L; Elo: 1809.00 
+west virginia: 1W - 1L; Elo: 1903.00 
+wichita state: 0W - 1L; Elo: 1871.00 
+wright state: 0W - 1L; Elo: 1623.00 
+xavier: 2W - 1L; Elo: 1968.00 
+
+ 
+=====Game Results===== 
+Game #1: liu brooklyn vs. radford. The winner was radford
+Game #2: st. bonaventure vs. ucla. The winner was st. bonaventure
+Game #3: nc central vs. texas southern. The winner was nc central
+Game #4: arizona state vs. syracuse. The winner was arizona state
+Game #5: virginia vs. umbc. The winner was virginia
+Game #6: creighton vs. kansas state. The winner was kansas state
+Game #7: kentucky vs. davidson. The winner was davidson
+Game #8: arizona vs. buffalo. The winner was buffalo
+Game #9: miami vs. loyola-chicago. The winner was miami
+Game #10: tennessee vs. wright state. The winner was tennessee
+Game #11: nevada vs. texas. The winner was texas
+Game #12: cincinnati vs. georgia state. The winner was cincinnati
+Game #13: xavier vs. nc central. The winner was xavier
+Game #14: missouri vs. florida state. The winner was florida state
+Game #15: ohio state vs. south dakota state. The winner was ohio state
+Game #16: gonzaga vs. nc greensboro. The winner was nc greensboro
+Game #17: houston vs. san diego state. The winner was houston
+Game #18: michigan vs. montana. The winner was michigan
+Game #19: texas a&m vs. providence. The winner was texas a&m
+Game #20: north carolina vs. lipscomb. The winner was north carolina
+Game #21: villanova vs. radford. The winner was villanova
+Game #22: virginia tech vs. alabama. The winner was virginia tech
+Game #23: west virginia vs. murray state. The winner was west virginia
+Game #24: wichita state vs. marshall. The winner was marshall
+Game #25: florida vs. st. bonaventure. The winner was st. bonaventure
+Game #26: texas tech vs. stephen f. austin. The winner was texas tech
+Game #27: arkansas vs. butler. The winner was butler
+Game #28: purdue vs. cal state fullerton. The winner was purdue
+Game #29: kansas vs. penn. The winner was kansas
+Game #30: seton hall vs. nc state. The winner was nc state
+Game #31: clemson vs. new mexico state. The winner was clemson
+Game #32: auburn vs. charleston. The winner was charleston
+Game #33: tcu vs. arizona state. The winner was tcu
+Game #34: michigan state vs. bucknell. The winner was michigan state
+Game #35: rhode island vs. oklahoma. The winner was oklahoma
+Game #36: duke vs. iona. The winner was duke
+Game #37: virginia vs. kansas state. The winner was virginia
+Game #38: davidson vs. buffalo. The winner was davidson
+Game #39: miami vs. tennessee. The winner was tennessee
+Game #40: texas vs. cincinnati. The winner was texas
+Game #41: xavier vs. florida state. The winner was xavier
+Game #42: ohio state vs. nc greensboro. The winner was ohio state
+Game #43: houston vs. michigan. The winner was houston
+Game #44: texas a&m vs. north carolina. The winner was north carolina
+Game #45: villanova vs. virginia tech. The winner was virginia tech
+Game #46: west virginia vs. marshall. The winner was marshall
+Game #47: st. bonaventure vs. texas tech. The winner was st. bonaventure
+Game #48: butler vs. purdue. The winner was purdue
+Game #49: kansas vs. nc state. The winner was kansas
+Game #50: clemson vs. charleston. The winner was clemson
+Game #51: tcu vs. michigan state. The winner was tcu
+Game #52: oklahoma vs. duke. The winner was duke
+Game #53: virginia vs. davidson. The winner was virginia
+Game #54: tennessee vs. texas. The winner was tennessee
+Game #55: xavier vs. ohio state. The winner was ohio state
+Game #56: houston vs. north carolina. The winner was north carolina
+Game #57: virginia tech vs. marshall. The winner was virginia tech
+Game #58: st. bonaventure vs. purdue. The winner was purdue
+Game #59: kansas vs. clemson. The winner was kansas
+Game #60: tcu vs. duke. The winner was duke
+Game #61: virginia vs. tennessee. The winner was virginia
+Game #62: ohio state vs. north carolina. The winner was north carolina
+Game #63: virginia tech vs. purdue. The winner was virginia tech
+Game #64: kansas vs. duke. The winner was kansas
+Game #65: virginia vs. north carolina. The winner was virginia
+Game #66: virginia tech vs. kansas. The winner was virginia tech
+Game #67: virginia vs. virginia tech. The winner was virginia
+
+User entered 2
+User entered 2
+User chose simulation option 2
+Simulated Tournament: 
+=====Team Results===== 
+alabama: 0W - 1L; Elo: 1763.00 
+arizona: 1W - 1L; Elo: 1944.00 
+arizona state: 2W - 1L; Elo: 1648.00 
+arkansas: 3W - 1L; Elo: 1845.00 
+auburn: 0W - 1L; Elo: 1793.00 
+bucknell: 0W - 1L; Elo: 1708.00 
+buffalo: 0W - 1L; Elo: 1740.00 
+butler: 0W - 1L; Elo: 1771.00 
+cal state fullerton: 0W - 1L; Elo: 1573.00 
+charleston: 2W - 1L; Elo: 1739.00 
+cincinnati: 3W - 1L; Elo: 1978.00 
+clemson: 0W - 1L; Elo: 1813.00 
+creighton: 1W - 1L; Elo: 1765.00 
+davidson: 0W - 1L; Elo: 1778.00 
+duke: 2W - 1L; Elo: 1932.00 
+florida: 1W - 1L; Elo: 1814.00 
+florida state: 2W - 1L; Elo: 1758.00 
+georgia state: 0W - 1L; Elo: 1621.00 
+gonzaga: 3W - 1L; Elo: 1931.00 
+houston: 1W - 1L; Elo: 1842.00 
+iona: 0W - 1L; Elo: 1565.00 
+kansas: 0W - 1L; Elo: 2005.00 
+kansas state: 0W - 1L; Elo: 1838.00 
+kentucky: 2W - 1L; Elo: 1914.00 
+lipscomb: 0W - 1L; Elo: 1609.00 
+liu brooklyn: 1W - 1L; Elo: 1465.00 
+loyola-chicago: 2W - 1L; Elo: 1821.00 
+marshall: 1W - 1L; Elo: 1697.00 
+miami: 0W - 1L; Elo: 1862.00 
+michigan: 4W - 1L; Elo: 1978.00 
+michigan state: 4W - 1L; Elo: 1992.00 
+missouri: 0W - 1L; Elo: 1774.00 
+montana: 0W - 1L; Elo: 1681.00 
+murray state: 0W - 1L; Elo: 1710.00 
+nc central: 0W - 1L; Elo: 1390.00 
+nc greensboro: 0W - 1L; Elo: 1726.00 
+nc state: 0W - 1L; Elo: 1765.00 
+nevada: 1W - 1L; Elo: 1789.00 
+new mexico state: 1W - 1L; Elo: 1755.00 
+north carolina: 2W - 1L; Elo: 1923.00 
+ohio state: 1W - 1L; Elo: 1808.00 
+oklahoma: 1W - 1L; Elo: 1749.00 
+penn: 1W - 1L; Elo: 1671.00 
+providence: 1W - 1L; Elo: 1822.00 
+purdue: 1W - 1L; Elo: 1916.00 
+radford: 0W - 1L; Elo: 1541.00 
+rhode island: 0W - 1L; Elo: 1798.00 
+san diego state: 0W - 1L; Elo: 1778.00 
+seton hall: 3W - 1L; Elo: 1789.00 
+south dakota state: 0W - 1L; Elo: 1763.00 
+st. bonaventure: 0W - 1L; Elo: 1799.00 
+stephen f. austin: 0W - 1L; Elo: 1634.00 
+syracuse: 0W - 1L; Elo: 1748.00 
+tcu: 0W - 1L; Elo: 1824.00 
+tennessee: 1W - 1L; Elo: 1890.00 
+texas: 0W - 1L; Elo: 1807.00 
+texas a&m: 0W - 1L; Elo: 1796.00 
+texas southern: 1W - 1L; Elo: 1439.00 
+texas tech: 2W - 1L; Elo: 1862.00 
+ucla: 1W - 1L; Elo: 1800.00 
+umbc: 0W - 1L; Elo: 1626.00 
+villanova: 5W - 1L; Elo: 2008.00 
+virginia: 6W - 0L; Elo: 2082.00 
+virginia tech: 1W - 1L; Elo: 1809.00 
+west virginia: 2W - 1L; Elo: 1903.00 
+wichita state: 0W - 1L; Elo: 1871.00 
+wright state: 0W - 1L; Elo: 1623.00 
+xavier: 1W - 1L; Elo: 1968.00 
+
+ 
+=====Game Results===== 
+Game #1: liu brooklyn vs. radford. The winner was liu brooklyn
+Game #2: st. bonaventure vs. ucla. The winner was ucla
+Game #3: nc central vs. texas southern. The winner was texas southern
+Game #4: arizona state vs. syracuse. The winner was arizona state
+Game #5: virginia vs. umbc. The winner was virginia
+Game #6: creighton vs. kansas state. The winner was creighton
+Game #7: kentucky vs. davidson. The winner was kentucky
+Game #8: arizona vs. buffalo. The winner was arizona
+Game #9: miami vs. loyola-chicago. The winner was loyola-chicago
+Game #10: tennessee vs. wright state. The winner was tennessee
+Game #11: nevada vs. texas. The winner was nevada
+Game #12: cincinnati vs. georgia state. The winner was cincinnati
+Game #13: xavier vs. texas southern. The winner was xavier
+Game #14: missouri vs. florida state. The winner was florida state
+Game #15: ohio state vs. south dakota state. The winner was ohio state
+Game #16: gonzaga vs. nc greensboro. The winner was gonzaga
+Game #17: houston vs. san diego state. The winner was houston
+Game #18: michigan vs. montana. The winner was michigan
+Game #19: texas a&m vs. providence. The winner was providence
+Game #20: north carolina vs. lipscomb. The winner was north carolina
+Game #21: villanova vs. liu brooklyn. The winner was villanova
+Game #22: virginia tech vs. alabama. The winner was virginia tech
+Game #23: west virginia vs. murray state. The winner was west virginia
+Game #24: wichita state vs. marshall. The winner was marshall
+Game #25: florida vs. ucla. The winner was florida
+Game #26: texas tech vs. stephen f. austin. The winner was texas tech
+Game #27: arkansas vs. butler. The winner was arkansas
+Game #28: purdue vs. cal state fullerton. The winner was purdue
+Game #29: kansas vs. penn. The winner was penn
+Game #30: seton hall vs. nc state. The winner was seton hall
+Game #31: clemson vs. new mexico state. The winner was new mexico state
+Game #32: auburn vs. charleston. The winner was charleston
+Game #33: tcu vs. arizona state. The winner was arizona state
+Game #34: michigan state vs. bucknell. The winner was michigan state
+Game #35: rhode island vs. oklahoma. The winner was oklahoma
+Game #36: duke vs. iona. The winner was duke
+Game #37: virginia vs. creighton. The winner was virginia
+Game #38: kentucky vs. arizona. The winner was kentucky
+Game #39: loyola-chicago vs. tennessee. The winner was loyola-chicago
+Game #40: nevada vs. cincinnati. The winner was cincinnati
+Game #41: xavier vs. florida state. The winner was florida state
+Game #42: ohio state vs. gonzaga. The winner was gonzaga
+Game #43: houston vs. michigan. The winner was michigan
+Game #44: providence vs. north carolina. The winner was north carolina
+Game #45: villanova vs. virginia tech. The winner was villanova
+Game #46: west virginia vs. marshall. The winner was west virginia
+Game #47: florida vs. texas tech. The winner was texas tech
+Game #48: arkansas vs. purdue. The winner was arkansas
+Game #49: penn vs. seton hall. The winner was seton hall
+Game #50: new mexico state vs. charleston. The winner was charleston
+Game #51: arizona state vs. michigan state. The winner was michigan state
+Game #52: oklahoma vs. duke. The winner was duke
+Game #53: virginia vs. kentucky. The winner was virginia
+Game #54: loyola-chicago vs. cincinnati. The winner was cincinnati
+Game #55: florida state vs. gonzaga. The winner was gonzaga
+Game #56: michigan vs. north carolina. The winner was michigan
+Game #57: villanova vs. west virginia. The winner was villanova
+Game #58: texas tech vs. arkansas. The winner was arkansas
+Game #59: seton hall vs. charleston. The winner was seton hall
+Game #60: michigan state vs. duke. The winner was michigan state
+Game #61: virginia vs. cincinnati. The winner was virginia
+Game #62: gonzaga vs. michigan. The winner was michigan
+Game #63: villanova vs. arkansas. The winner was villanova
+Game #64: seton hall vs. michigan state. The winner was michigan state
+Game #65: virginia vs. michigan. The winner was virginia
+Game #66: villanova vs. michigan state. The winner was villanova
+Game #67: virginia vs. villanova. The winner was virginia
+
+User entered 2
+User entered 2
+User chose simulation option 2
+Simulated Tournament: 
+=====Team Results===== 
+alabama: 0W - 1L; Elo: 1763.00 
+arizona: 1W - 1L; Elo: 1944.00 
+arizona state: 0W - 1L; Elo: 1648.00 
+arkansas: 0W - 1L; Elo: 1845.00 
+auburn: 2W - 1L; Elo: 1793.00 
+bucknell: 0W - 1L; Elo: 1708.00 
+buffalo: 0W - 1L; Elo: 1740.00 
+butler: 1W - 1L; Elo: 1771.00 
+cal state fullerton: 0W - 1L; Elo: 1573.00 
+charleston: 0W - 1L; Elo: 1739.00 
+cincinnati: 2W - 1L; Elo: 1978.00 
+clemson: 1W - 1L; Elo: 1813.00 
+creighton: 1W - 1L; Elo: 1765.00 
+davidson: 0W - 1L; Elo: 1778.00 
+duke: 0W - 1L; Elo: 1932.00 
+florida: 1W - 1L; Elo: 1814.00 
+florida state: 1W - 1L; Elo: 1758.00 
+georgia state: 0W - 1L; Elo: 1621.00 
+gonzaga: 2W - 1L; Elo: 1931.00 
+houston: 1W - 1L; Elo: 1842.00 
+iona: 1W - 1L; Elo: 1565.00 
+kansas: 1W - 1L; Elo: 2005.00 
+kansas state: 0W - 1L; Elo: 1838.00 
+kentucky: 2W - 1L; Elo: 1914.00 
+lipscomb: 0W - 1L; Elo: 1609.00 
+liu brooklyn: 0W - 1L; Elo: 1465.00 
+loyola-chicago: 1W - 1L; Elo: 1821.00 
+marshall: 0W - 1L; Elo: 1697.00 
+miami: 0W - 1L; Elo: 1862.00 
+michigan: 5W - 1L; Elo: 1978.00 
+michigan state: 2W - 1L; Elo: 1992.00 
+missouri: 0W - 1L; Elo: 1774.00 
+montana: 0W - 1L; Elo: 1681.00 
+murray state: 0W - 1L; Elo: 1710.00 
+nc central: 0W - 1L; Elo: 1390.00 
+nc greensboro: 0W - 1L; Elo: 1726.00 
+nc state: 3W - 1L; Elo: 1765.00 
+nevada: 0W - 1L; Elo: 1789.00 
+new mexico state: 0W - 1L; Elo: 1755.00 
+north carolina: 2W - 1L; Elo: 1923.00 
+ohio state: 1W - 1L; Elo: 1808.00 
+oklahoma: 0W - 1L; Elo: 1749.00 
+penn: 0W - 1L; Elo: 1671.00 
+providence: 1W - 1L; Elo: 1822.00 
+purdue: 2W - 1L; Elo: 1916.00 
+radford: 1W - 1L; Elo: 1541.00 
+rhode island: 4W - 1L; Elo: 1798.00 
+san diego state: 0W - 1L; Elo: 1778.00 
+seton hall: 0W - 1L; Elo: 1789.00 
+south dakota state: 0W - 1L; Elo: 1763.00 
+st. bonaventure: 0W - 1L; Elo: 1799.00 
+stephen f. austin: 0W - 1L; Elo: 1634.00 
+syracuse: 1W - 1L; Elo: 1748.00 
+tcu: 1W - 1L; Elo: 1824.00 
+tennessee: 4W - 1L; Elo: 1890.00 
+texas: 1W - 1L; Elo: 1807.00 
+texas a&m: 0W - 1L; Elo: 1796.00 
+texas southern: 1W - 1L; Elo: 1439.00 
+texas tech: 3W - 1L; Elo: 1862.00 
+ucla: 1W - 1L; Elo: 1800.00 
+umbc: 0W - 1L; Elo: 1626.00 
+villanova: 6W - 0L; Elo: 2008.00 
+virginia: 3W - 1L; Elo: 2082.00 
+virginia tech: 1W - 1L; Elo: 1809.00 
+west virginia: 2W - 1L; Elo: 1903.00 
+wichita state: 1W - 1L; Elo: 1871.00 
+wright state: 0W - 1L; Elo: 1623.00 
+xavier: 3W - 1L; Elo: 1968.00 
+
+ 
+=====Game Results===== 
+Game #1: liu brooklyn vs. radford. The winner was radford
+Game #2: st. bonaventure vs. ucla. The winner was ucla
+Game #3: nc central vs. texas southern. The winner was texas southern
+Game #4: arizona state vs. syracuse. The winner was syracuse
+Game #5: virginia vs. umbc. The winner was virginia
+Game #6: creighton vs. kansas state. The winner was creighton
+Game #7: kentucky vs. davidson. The winner was kentucky
+Game #8: arizona vs. buffalo. The winner was arizona
+Game #9: miami vs. loyola-chicago. The winner was loyola-chicago
+Game #10: tennessee vs. wright state. The winner was tennessee
+Game #11: nevada vs. texas. The winner was texas
+Game #12: cincinnati vs. georgia state. The winner was cincinnati
+Game #13: xavier vs. texas southern. The winner was xavier
+Game #14: missouri vs. florida state. The winner was florida state
+Game #15: ohio state vs. south dakota state. The winner was ohio state
+Game #16: gonzaga vs. nc greensboro. The winner was gonzaga
+Game #17: houston vs. san diego state. The winner was houston
+Game #18: michigan vs. montana. The winner was michigan
+Game #19: texas a&m vs. providence. The winner was providence
+Game #20: north carolina vs. lipscomb. The winner was north carolina
+Game #21: villanova vs. radford. The winner was villanova
+Game #22: virginia tech vs. alabama. The winner was virginia tech
+Game #23: west virginia vs. murray state. The winner was west virginia
+Game #24: wichita state vs. marshall. The winner was wichita state
+Game #25: florida vs. ucla. The winner was florida
+Game #26: texas tech vs. stephen f. austin. The winner was texas tech
+Game #27: arkansas vs. butler. The winner was butler
+Game #28: purdue vs. cal state fullerton. The winner was purdue
+Game #29: kansas vs. penn. The winner was kansas
+Game #30: seton hall vs. nc state. The winner was nc state
+Game #31: clemson vs. new mexico state. The winner was clemson
+Game #32: auburn vs. charleston. The winner was auburn
+Game #33: tcu vs. syracuse. The winner was tcu
+Game #34: michigan state vs. bucknell. The winner was michigan state
+Game #35: rhode island vs. oklahoma. The winner was rhode island
+Game #36: duke vs. iona. The winner was iona
+Game #37: virginia vs. creighton. The winner was virginia
+Game #38: kentucky vs. arizona. The winner was kentucky
+Game #39: loyola-chicago vs. tennessee. The winner was tennessee
+Game #40: texas vs. cincinnati. The winner was cincinnati
+Game #41: xavier vs. florida state. The winner was xavier
+Game #42: ohio state vs. gonzaga. The winner was gonzaga
+Game #43: houston vs. michigan. The winner was michigan
+Game #44: providence vs. north carolina. The winner was north carolina
+Game #45: villanova vs. virginia tech. The winner was villanova
+Game #46: west virginia vs. wichita state. The winner was west virginia
+Game #47: florida vs. texas tech. The winner was texas tech
+Game #48: butler vs. purdue. The winner was purdue
+Game #49: kansas vs. nc state. The winner was nc state
+Game #50: clemson vs. auburn. The winner was auburn
+Game #51: tcu vs. michigan state. The winner was michigan state
+Game #52: rhode island vs. iona. The winner was rhode island
+Game #53: virginia vs. kentucky. The winner was virginia
+Game #54: tennessee vs. cincinnati. The winner was tennessee
+Game #55: xavier vs. gonzaga. The winner was xavier
+Game #56: michigan vs. north carolina. The winner was michigan
+Game #57: villanova vs. west virginia. The winner was villanova
+Game #58: texas tech vs. purdue. The winner was texas tech
+Game #59: nc state vs. auburn. The winner was nc state
+Game #60: michigan state vs. rhode island. The winner was rhode island
+Game #61: virginia vs. tennessee. The winner was tennessee
+Game #62: xavier vs. michigan. The winner was michigan
+Game #63: villanova vs. texas tech. The winner was villanova
+Game #64: nc state vs. rhode island. The winner was rhode island
+Game #65: tennessee vs. michigan. The winner was michigan
+Game #66: villanova vs. rhode island. The winner was villanova
+Game #67: michigan vs. villanova. The winner was villanova
+
+User entered 2
+User entered 2
+User chose simulation option 2
+Simulated Tournament: 
+=====Team Results===== 
+alabama: 1W - 1L; Elo: 1763.00 
+arizona: 1W - 1L; Elo: 1944.00 
+arizona state: 0W - 1L; Elo: 1648.00 
+arkansas: 1W - 1L; Elo: 1845.00 
+auburn: 0W - 1L; Elo: 1793.00 
+bucknell: 0W - 1L; Elo: 1708.00 
+buffalo: 0W - 1L; Elo: 1740.00 
+butler: 0W - 1L; Elo: 1771.00 
+cal state fullerton: 0W - 1L; Elo: 1573.00 
+charleston: 1W - 1L; Elo: 1739.00 
+cincinnati: 6W - 0L; Elo: 1978.00 
+clemson: 3W - 1L; Elo: 1813.00 
+creighton: 0W - 1L; Elo: 1765.00 
+davidson: 0W - 1L; Elo: 1778.00 
+duke: 2W - 1L; Elo: 1932.00 
+florida: 0W - 1L; Elo: 1814.00 
+florida state: 1W - 1L; Elo: 1758.00 
+georgia state: 0W - 1L; Elo: 1621.00 
+gonzaga: 0W - 1L; Elo: 1931.00 
+houston: 4W - 1L; Elo: 1842.00 
+iona: 0W - 1L; Elo: 1565.00 
+kansas: 1W - 1L; Elo: 2005.00 
+kansas state: 1W - 1L; Elo: 1838.00 
+kentucky: 3W - 1L; Elo: 1914.00 
+lipscomb: 1W - 1L; Elo: 1609.00 
+liu brooklyn: 1W - 1L; Elo: 1465.00 
+loyola-chicago: 0W - 1L; Elo: 1821.00 
+marshall: 1W - 1L; Elo: 1697.00 
+miami: 2W - 1L; Elo: 1862.00 
+michigan: 1W - 1L; Elo: 1978.00 
+michigan state: 5W - 1L; Elo: 1992.00 
+missouri: 0W - 1L; Elo: 1774.00 
+montana: 0W - 1L; Elo: 1681.00 
+murray state: 2W - 1L; Elo: 1710.00 
+nc central: 0W - 1L; Elo: 1390.00 
+nc greensboro: 1W - 1L; Elo: 1726.00 
+nc state: 0W - 1L; Elo: 1765.00 
+nevada: 0W - 1L; Elo: 1789.00 
+new mexico state: 0W - 1L; Elo: 1755.00 
+north carolina: 0W - 1L; Elo: 1923.00 
+ohio state: 0W - 1L; Elo: 1808.00 
+oklahoma: 0W - 1L; Elo: 1749.00 
+penn: 0W - 1L; Elo: 1671.00 
+providence: 0W - 1L; Elo: 1822.00 
+purdue: 4W - 1L; Elo: 1916.00 
+radford: 0W - 1L; Elo: 1541.00 
+rhode island: 1W - 1L; Elo: 1798.00 
+san diego state: 0W - 1L; Elo: 1778.00 
+seton hall: 2W - 1L; Elo: 1789.00 
+south dakota state: 3W - 1L; Elo: 1763.00 
+st. bonaventure: 0W - 1L; Elo: 1799.00 
+stephen f. austin: 2W - 1L; Elo: 1634.00 
+syracuse: 1W - 1L; Elo: 1748.00 
+tcu: 1W - 1L; Elo: 1824.00 
+tennessee: 0W - 1L; Elo: 1890.00 
+texas: 1W - 1L; Elo: 1807.00 
+texas a&m: 2W - 1L; Elo: 1796.00 
+texas southern: 1W - 1L; Elo: 1439.00 
+texas tech: 0W - 1L; Elo: 1862.00 
+ucla: 2W - 1L; Elo: 1800.00 
+umbc: 0W - 1L; Elo: 1626.00 
+villanova: 3W - 1L; Elo: 2008.00 
+virginia: 2W - 1L; Elo: 2082.00 
+virginia tech: 0W - 1L; Elo: 1809.00 
+west virginia: 0W - 1L; Elo: 1903.00 
+wichita state: 0W - 1L; Elo: 1871.00 
+wright state: 1W - 1L; Elo: 1623.00 
+xavier: 2W - 1L; Elo: 1968.00 
+
+ 
+=====Game Results===== 
+Game #1: liu brooklyn vs. radford. The winner was liu brooklyn
+Game #2: st. bonaventure vs. ucla. The winner was ucla
+Game #3: nc central vs. texas southern. The winner was texas southern
+Game #4: arizona state vs. syracuse. The winner was syracuse
+Game #5: virginia vs. umbc. The winner was virginia
+Game #6: creighton vs. kansas state. The winner was kansas state
+Game #7: kentucky vs. davidson. The winner was kentucky
+Game #8: arizona vs. buffalo. The winner was arizona
+Game #9: miami vs. loyola-chicago. The winner was miami
+Game #10: tennessee vs. wright state. The winner was wright state
+Game #11: nevada vs. texas. The winner was texas
+Game #12: cincinnati vs. georgia state. The winner was cincinnati
+Game #13: xavier vs. texas southern. The winner was xavier
+Game #14: missouri vs. florida state. The winner was florida state
+Game #15: ohio state vs. south dakota state. The winner was south dakota state
+Game #16: gonzaga vs. nc greensboro. The winner was nc greensboro
+Game #17: houston vs. san diego state. The winner was houston
+Game #18: michigan vs. montana. The winner was michigan
+Game #19: texas a&m vs. providence. The winner was texas a&m
+Game #20: north carolina vs. lipscomb. The winner was lipscomb
+Game #21: villanova vs. liu brooklyn. The winner was villanova
+Game #22: virginia tech vs. alabama. The winner was alabama
+Game #23: west virginia vs. murray state. The winner was murray state
+Game #24: wichita state vs. marshall. The winner was marshall
+Game #25: florida vs. ucla. The winner was ucla
+Game #26: texas tech vs. stephen f. austin. The winner was stephen f. austin
+Game #27: arkansas vs. butler. The winner was arkansas
+Game #28: purdue vs. cal state fullerton. The winner was purdue
+Game #29: kansas vs. penn. The winner was kansas
+Game #30: seton hall vs. nc state. The winner was seton hall
+Game #31: clemson vs. new mexico state. The winner was clemson
+Game #32: auburn vs. charleston. The winner was charleston
+Game #33: tcu vs. syracuse. The winner was tcu
+Game #34: michigan state vs. bucknell. The winner was michigan state
+Game #35: rhode island vs. oklahoma. The winner was rhode island
+Game #36: duke vs. iona. The winner was duke
+Game #37: virginia vs. kansas state. The winner was virginia
+Game #38: kentucky vs. arizona. The winner was kentucky
+Game #39: miami vs. wright state. The winner was miami
+Game #40: texas vs. cincinnati. The winner was cincinnati
+Game #41: xavier vs. florida state. The winner was xavier
+Game #42: south dakota state vs. nc greensboro. The winner was south dakota state
+Game #43: houston vs. michigan. The winner was houston
+Game #44: texas a&m vs. lipscomb. The winner was texas a&m
+Game #45: villanova vs. alabama. The winner was villanova
+Game #46: murray state vs. marshall. The winner was murray state
+Game #47: ucla vs. stephen f. austin. The winner was stephen f. austin
+Game #48: arkansas vs. purdue. The winner was purdue
+Game #49: kansas vs. seton hall. The winner was seton hall
+Game #50: clemson vs. charleston. The winner was clemson
+Game #51: tcu vs. michigan state. The winner was michigan state
+Game #52: rhode island vs. duke. The winner was duke
+Game #53: virginia vs. kentucky. The winner was kentucky
+Game #54: miami vs. cincinnati. The winner was cincinnati
+Game #55: xavier vs. south dakota state. The winner was south dakota state
+Game #56: houston vs. texas a&m. The winner was houston
+Game #57: villanova vs. murray state. The winner was villanova
+Game #58: stephen f. austin vs. purdue. The winner was purdue
+Game #59: seton hall vs. clemson. The winner was clemson
+Game #60: michigan state vs. duke. The winner was michigan state
+Game #61: kentucky vs. cincinnati. The winner was cincinnati
+Game #62: south dakota state vs. houston. The winner was houston
+Game #63: villanova vs. purdue. The winner was purdue
+Game #64: clemson vs. michigan state. The winner was michigan state
+Game #65: cincinnati vs. houston. The winner was cincinnati
+Game #66: purdue vs. michigan state. The winner was michigan state
+Game #67: cincinnati vs. michigan state. The winner was cincinnati
+
+User entered 2
+User entered 2
+User chose simulation option 2
+Simulated Tournament: 
+=====Team Results===== 
+alabama: 0W - 1L; Elo: 1763.00 
+arizona: 3W - 1L; Elo: 1944.00 
+arizona state: 0W - 1L; Elo: 1648.00 
+arkansas: 1W - 1L; Elo: 1845.00 
+auburn: 1W - 1L; Elo: 1793.00 
+bucknell: 0W - 1L; Elo: 1708.00 
+buffalo: 0W - 1L; Elo: 1740.00 
+butler: 0W - 1L; Elo: 1771.00 
+cal state fullerton: 0W - 1L; Elo: 1573.00 
+charleston: 0W - 1L; Elo: 1739.00 
+cincinnati: 0W - 1L; Elo: 1978.00 
+clemson: 0W - 1L; Elo: 1813.00 
+creighton: 0W - 1L; Elo: 1765.00 
+davidson: 0W - 1L; Elo: 1778.00 
+duke: 4W - 1L; Elo: 1932.00 
+florida: 1W - 1L; Elo: 1814.00 
+florida state: 1W - 1L; Elo: 1758.00 
+georgia state: 2W - 1L; Elo: 1621.00 
+gonzaga: 0W - 1L; Elo: 1931.00 
+houston: 2W - 1L; Elo: 1842.00 
+iona: 0W - 1L; Elo: 1565.00 
+kansas: 3W - 1L; Elo: 2005.00 
+kansas state: 2W - 1L; Elo: 1838.00 
+kentucky: 1W - 1L; Elo: 1914.00 
+lipscomb: 0W - 1L; Elo: 1609.00 
+liu brooklyn: 0W - 1L; Elo: 1465.00 
+loyola-chicago: 0W - 1L; Elo: 1821.00 
+marshall: 0W - 1L; Elo: 1697.00 
+miami: 1W - 1L; Elo: 1862.00 
+michigan: 1W - 1L; Elo: 1978.00 
+michigan state: 2W - 1L; Elo: 1992.00 
+missouri: 0W - 1L; Elo: 1774.00 
+montana: 0W - 1L; Elo: 1681.00 
+murray state: 0W - 1L; Elo: 1710.00 
+nc central: 1W - 1L; Elo: 1390.00 
+nc greensboro: 1W - 1L; Elo: 1726.00 
+nc state: 0W - 1L; Elo: 1765.00 
+nevada: 1W - 1L; Elo: 1789.00 
+new mexico state: 2W - 1L; Elo: 1755.00 
+north carolina: 3W - 1L; Elo: 1923.00 
+ohio state: 6W - 0L; Elo: 1808.00 
+oklahoma: 0W - 1L; Elo: 1749.00 
+penn: 0W - 1L; Elo: 1671.00 
+providence: 0W - 1L; Elo: 1822.00 
+purdue: 2W - 1L; Elo: 1916.00 
+radford: 1W - 1L; Elo: 1541.00 
+rhode island: 1W - 1L; Elo: 1798.00 
+san diego state: 0W - 1L; Elo: 1778.00 
+seton hall: 1W - 1L; Elo: 1789.00 
+south dakota state: 0W - 1L; Elo: 1763.00 
+st. bonaventure: 1W - 1L; Elo: 1799.00 
+stephen f. austin: 0W - 1L; Elo: 1634.00 
+syracuse: 1W - 1L; Elo: 1748.00 
+tcu: 1W - 1L; Elo: 1824.00 
+tennessee: 4W - 1L; Elo: 1890.00 
+texas: 0W - 1L; Elo: 1807.00 
+texas a&m: 1W - 1L; Elo: 1796.00 
+texas southern: 0W - 1L; Elo: 1439.00 
+texas tech: 3W - 1L; Elo: 1862.00 
+ucla: 0W - 1L; Elo: 1800.00 
+umbc: 1W - 1L; Elo: 1626.00 
+villanova: 5W - 1L; Elo: 2008.00 
+virginia: 0W - 1L; Elo: 2082.00 
+virginia tech: 1W - 1L; Elo: 1809.00 
+west virginia: 1W - 1L; Elo: 1903.00 
+wichita state: 2W - 1L; Elo: 1871.00 
+wright state: 0W - 1L; Elo: 1623.00 
+xavier: 2W - 1L; Elo: 1968.00 
+
+ 
+=====Game Results===== 
+Game #1: liu brooklyn vs. radford. The winner was radford
+Game #2: st. bonaventure vs. ucla. The winner was st. bonaventure
+Game #3: nc central vs. texas southern. The winner was nc central
+Game #4: arizona state vs. syracuse. The winner was syracuse
+Game #5: virginia vs. umbc. The winner was umbc
+Game #6: creighton vs. kansas state. The winner was kansas state
+Game #7: kentucky vs. davidson. The winner was kentucky
+Game #8: arizona vs. buffalo. The winner was arizona
+Game #9: miami vs. loyola-chicago. The winner was miami
+Game #10: tennessee vs. wright state. The winner was tennessee
+Game #11: nevada vs. texas. The winner was nevada
+Game #12: cincinnati vs. georgia state. The winner was georgia state
+Game #13: xavier vs. nc central. The winner was xavier
+Game #14: missouri vs. florida state. The winner was florida state
+Game #15: ohio state vs. south dakota state. The winner was ohio state
+Game #16: gonzaga vs. nc greensboro. The winner was nc greensboro
+Game #17: houston vs. san diego state. The winner was houston
+Game #18: michigan vs. montana. The winner was michigan
+Game #19: texas a&m vs. providence. The winner was texas a&m
+Game #20: north carolina vs. lipscomb. The winner was north carolina
+Game #21: villanova vs. radford. The winner was villanova
+Game #22: virginia tech vs. alabama. The winner was virginia tech
+Game #23: west virginia vs. murray state. The winner was west virginia
+Game #24: wichita state vs. marshall. The winner was wichita state
+Game #25: florida vs. st. bonaventure. The winner was florida
+Game #26: texas tech vs. stephen f. austin. The winner was texas tech
+Game #27: arkansas vs. butler. The winner was arkansas
+Game #28: purdue vs. cal state fullerton. The winner was purdue
+Game #29: kansas vs. penn. The winner was kansas
+Game #30: seton hall vs. nc state. The winner was seton hall
+Game #31: clemson vs. new mexico state. The winner was new mexico state
+Game #32: auburn vs. charleston. The winner was auburn
+Game #33: tcu vs. syracuse. The winner was tcu
+Game #34: michigan state vs. bucknell. The winner was michigan state
+Game #35: rhode island vs. oklahoma. The winner was rhode island
+Game #36: duke vs. iona. The winner was duke
+Game #37: umbc vs. kansas state. The winner was kansas state
+Game #38: kentucky vs. arizona. The winner was arizona
+Game #39: miami vs. tennessee. The winner was tennessee
+Game #40: nevada vs. georgia state. The winner was georgia state
+Game #41: xavier vs. florida state. The winner was xavier
+Game #42: ohio state vs. nc greensboro. The winner was ohio state
+Game #43: houston vs. michigan. The winner was houston
+Game #44: texas a&m vs. north carolina. The winner was north carolina
+Game #45: villanova vs. virginia tech. The winner was villanova
+Game #46: west virginia vs. wichita state. The winner was wichita state
+Game #47: florida vs. texas tech. The winner was texas tech
+Game #48: arkansas vs. purdue. The winner was purdue
+Game #49: kansas vs. seton hall. The winner was kansas
+Game #50: new mexico state vs. auburn. The winner was new mexico state
+Game #51: tcu vs. michigan state. The winner was michigan state
+Game #52: rhode island vs. duke. The winner was duke
+Game #53: kansas state vs. arizona. The winner was arizona
+Game #54: tennessee vs. georgia state. The winner was tennessee
+Game #55: xavier vs. ohio state. The winner was ohio state
+Game #56: houston vs. north carolina. The winner was north carolina
+Game #57: villanova vs. wichita state. The winner was villanova
+Game #58: texas tech vs. purdue. The winner was texas tech
+Game #59: kansas vs. new mexico state. The winner was kansas
+Game #60: michigan state vs. duke. The winner was duke
+Game #61: arizona vs. tennessee. The winner was tennessee
+Game #62: ohio state vs. north carolina. The winner was ohio state
+Game #63: villanova vs. texas tech. The winner was villanova
+Game #64: kansas vs. duke. The winner was duke
+Game #65: tennessee vs. ohio state. The winner was ohio state
+Game #66: villanova vs. duke. The winner was villanova
+Game #67: ohio state vs. villanova. The winner was ohio state
+
+User entered 2
+User entered 4
+User chose simulation option 4
+Simulated Tournament: 
+=====Team Results===== 
+alabama: 0W - 1L; Elo: 1763.00 
+arizona: 1W - 1L; Elo: 1944.00 
+arizona state: 0W - 1L; Elo: 1648.00 
+arkansas: 0W - 1L; Elo: 1845.00 
+auburn: 2W - 1L; Elo: 1793.00 
+bucknell: 1W - 1L; Elo: 1708.00 
+buffalo: 0W - 1L; Elo: 1740.00 
+butler: 3W - 1L; Elo: 1771.00 
+cal state fullerton: 1W - 1L; Elo: 1573.00 
+charleston: 0W - 1L; Elo: 1739.00 
+cincinnati: 2W - 1L; Elo: 1978.00 
+clemson: 0W - 1L; Elo: 1813.00 
+creighton: 0W - 1L; Elo: 1765.00 
+davidson: 2W - 1L; Elo: 1778.00 
+duke: 3W - 1L; Elo: 1932.00 
+florida: 2W - 1L; Elo: 1814.00 
+florida state: 1W - 1L; Elo: 1758.00 
+georgia state: 0W - 1L; Elo: 1621.00 
+gonzaga: 0W - 1L; Elo: 1931.00 
+houston: 0W - 1L; Elo: 1842.00 
+iona: 0W - 1L; Elo: 1565.00 
+kansas: 0W - 1L; Elo: 2005.00 
+kansas state: 1W - 1L; Elo: 1838.00 
+kentucky: 0W - 1L; Elo: 1914.00 
+lipscomb: 0W - 1L; Elo: 1609.00 
+liu brooklyn: 0W - 1L; Elo: 1465.00 
+loyola-chicago: 0W - 1L; Elo: 1821.00 
+marshall: 0W - 1L; Elo: 1697.00 
+miami: 3W - 1L; Elo: 1862.00 
+michigan: 1W - 1L; Elo: 1978.00 
+michigan state: 0W - 1L; Elo: 1992.00 
+missouri: 0W - 1L; Elo: 1774.00 
+montana: 0W - 1L; Elo: 1681.00 
+murray state: 0W - 1L; Elo: 1710.00 
+nc central: 1W - 1L; Elo: 1390.00 
+nc greensboro: 3W - 1L; Elo: 1726.00 
+nc state: 0W - 1L; Elo: 1765.00 
+nevada: 0W - 1L; Elo: 1789.00 
+new mexico state: 1W - 1L; Elo: 1755.00 
+north carolina: 1W - 1L; Elo: 1923.00 
+ohio state: 0W - 1L; Elo: 1808.00 
+oklahoma: 0W - 1L; Elo: 1749.00 
+penn: 6W - 0L; Elo: 1671.00 
+providence: 0W - 1L; Elo: 1822.00 
+purdue: 0W - 1L; Elo: 1916.00 
+radford: 1W - 1L; Elo: 1541.00 
+rhode island: 1W - 1L; Elo: 1798.00 
+san diego state: 2W - 1L; Elo: 1778.00 
+seton hall: 1W - 1L; Elo: 1789.00 
+south dakota state: 1W - 1L; Elo: 1763.00 
+st. bonaventure: 1W - 1L; Elo: 1799.00 
+stephen f. austin: 1W - 1L; Elo: 1634.00 
+syracuse: 1W - 1L; Elo: 1748.00 
+tcu: 2W - 1L; Elo: 1824.00 
+tennessee: 1W - 1L; Elo: 1890.00 
+texas: 1W - 1L; Elo: 1807.00 
+texas a&m: 4W - 1L; Elo: 1796.00 
+texas southern: 0W - 1L; Elo: 1439.00 
+texas tech: 0W - 1L; Elo: 1862.00 
+ucla: 0W - 1L; Elo: 1800.00 
+umbc: 0W - 1L; Elo: 1626.00 
+villanova: 1W - 1L; Elo: 2008.00 
+virginia: 5W - 1L; Elo: 2082.00 
+virginia tech: 2W - 1L; Elo: 1809.00 
+west virginia: 4W - 1L; Elo: 1903.00 
+wichita state: 1W - 1L; Elo: 1871.00 
+wright state: 0W - 1L; Elo: 1623.00 
+xavier: 2W - 1L; Elo: 1968.00 
+
+ 
+=====Game Results===== 
+Game #1: liu brooklyn vs. radford. The winner was radford
+Game #2: st. bonaventure vs. ucla. The winner was st. bonaventure
+Game #3: nc central vs. texas southern. The winner was nc central
+Game #4: arizona state vs. syracuse. The winner was syracuse
+Game #5: virginia vs. umbc. The winner was virginia
+Game #6: creighton vs. kansas state. The winner was kansas state
+Game #7: kentucky vs. davidson. The winner was davidson
+Game #8: arizona vs. buffalo. The winner was arizona
+Game #9: miami vs. loyola-chicago. The winner was miami
+Game #10: tennessee vs. wright state. The winner was tennessee
+Game #11: nevada vs. texas. The winner was texas
+Game #12: cincinnati vs. georgia state. The winner was cincinnati
+Game #13: xavier vs. nc central. The winner was xavier
+Game #14: missouri vs. florida state. The winner was florida state
+Game #15: ohio state vs. south dakota state. The winner was south dakota state
+Game #16: gonzaga vs. nc greensboro. The winner was nc greensboro
+Game #17: houston vs. san diego state. The winner was san diego state
+Game #18: michigan vs. montana. The winner was michigan
+Game #19: texas a&m vs. providence. The winner was texas a&m
+Game #20: north carolina vs. lipscomb. The winner was north carolina
+Game #21: villanova vs. radford. The winner was villanova
+Game #22: virginia tech vs. alabama. The winner was virginia tech
+Game #23: west virginia vs. murray state. The winner was west virginia
+Game #24: wichita state vs. marshall. The winner was wichita state
+Game #25: florida vs. st. bonaventure. The winner was florida
+Game #26: texas tech vs. stephen f. austin. The winner was stephen f. austin
+Game #27: arkansas vs. butler. The winner was butler
+Game #28: purdue vs. cal state fullerton. The winner was cal state fullerton
+Game #29: kansas vs. penn. The winner was penn
+Game #30: seton hall vs. nc state. The winner was seton hall
+Game #31: clemson vs. new mexico state. The winner was new mexico state
+Game #32: auburn vs. charleston. The winner was auburn
+Game #33: tcu vs. syracuse. The winner was tcu
+Game #34: michigan state vs. bucknell. The winner was bucknell
+Game #35: rhode island vs. oklahoma. The winner was rhode island
+Game #36: duke vs. iona. The winner was duke
+Game #37: virginia vs. kansas state. The winner was virginia
+Game #38: davidson vs. arizona. The winner was davidson
+Game #39: miami vs. tennessee. The winner was miami
+Game #40: texas vs. cincinnati. The winner was cincinnati
+Game #41: xavier vs. florida state. The winner was xavier
+Game #42: south dakota state vs. nc greensboro. The winner was nc greensboro
+Game #43: san diego state vs. michigan. The winner was san diego state
+Game #44: texas a&m vs. north carolina. The winner was texas a&m
+Game #45: villanova vs. virginia tech. The winner was virginia tech
+Game #46: west virginia vs. wichita state. The winner was west virginia
+Game #47: florida vs. stephen f. austin. The winner was florida
+Game #48: butler vs. cal state fullerton. The winner was butler
+Game #49: penn vs. seton hall. The winner was penn
+Game #50: new mexico state vs. auburn. The winner was auburn
+Game #51: tcu vs. bucknell. The winner was tcu
+Game #52: rhode island vs. duke. The winner was duke
+Game #53: virginia vs. davidson. The winner was virginia
+Game #54: miami vs. cincinnati. The winner was miami
+Game #55: xavier vs. nc greensboro. The winner was nc greensboro
+Game #56: san diego state vs. texas a&m. The winner was texas a&m
+Game #57: virginia tech vs. west virginia. The winner was west virginia
+Game #58: florida vs. butler. The winner was butler
+Game #59: penn vs. auburn. The winner was penn
+Game #60: tcu vs. duke. The winner was duke
+Game #61: virginia vs. miami. The winner was virginia
+Game #62: nc greensboro vs. texas a&m. The winner was texas a&m
+Game #63: west virginia vs. butler. The winner was west virginia
+Game #64: penn vs. duke. The winner was penn
+Game #65: virginia vs. texas a&m. The winner was virginia
+Game #66: west virginia vs. penn. The winner was penn
+Game #67: virginia vs. penn. The winner was penn
+
+User entered 2
+User entered 3
+User chose simulation option 3
+Simulated Tournament: 
+=====Team Results===== 
+alabama: 0W - 1L; Elo: 1763.00 
+arizona: 2W - 1L; Elo: 1944.00 
+arizona state: 0W - 1L; Elo: 1648.00 
+arkansas: 1W - 1L; Elo: 1845.00 
+auburn: 1W - 1L; Elo: 1793.00 
+bucknell: 0W - 1L; Elo: 1708.00 
+buffalo: 0W - 1L; Elo: 1740.00 
+butler: 0W - 1L; Elo: 1771.00 
+cal state fullerton: 0W - 1L; Elo: 1573.00 
+charleston: 0W - 1L; Elo: 1739.00 
+cincinnati: 3W - 1L; Elo: 1978.00 
+clemson: 2W - 1L; Elo: 1813.00 
+creighton: 0W - 1L; Elo: 1765.00 
+davidson: 0W - 1L; Elo: 1778.00 
+duke: 2W - 1L; Elo: 1932.00 
+florida: 1W - 1L; Elo: 1814.00 
+florida state: 0W - 1L; Elo: 1758.00 
+georgia state: 0W - 1L; Elo: 1621.00 
+gonzaga: 2W - 1L; Elo: 1931.00 
+houston: 1W - 1L; Elo: 1842.00 
+iona: 0W - 1L; Elo: 1565.00 
+kansas: 4W - 1L; Elo: 2005.00 
+kansas state: 1W - 1L; Elo: 1838.00 
+kentucky: 1W - 1L; Elo: 1914.00 
+lipscomb: 0W - 1L; Elo: 1609.00 
+liu brooklyn: 0W - 1L; Elo: 1465.00 
+loyola-chicago: 0W - 1L; Elo: 1821.00 
+marshall: 0W - 1L; Elo: 1697.00 
+miami: 1W - 1L; Elo: 1862.00 
+michigan: 4W - 1L; Elo: 1978.00 
+michigan state: 3W - 1L; Elo: 1992.00 
+missouri: 1W - 1L; Elo: 1774.00 
+montana: 0W - 1L; Elo: 1681.00 
+murray state: 0W - 1L; Elo: 1710.00 
+nc central: 0W - 1L; Elo: 1390.00 
+nc greensboro: 0W - 1L; Elo: 1726.00 
+nc state: 0W - 1L; Elo: 1765.00 
+nevada: 0W - 1L; Elo: 1789.00 
+new mexico state: 0W - 1L; Elo: 1755.00 
+north carolina: 2W - 1L; Elo: 1923.00 
+ohio state: 1W - 1L; Elo: 1808.00 
+oklahoma: 0W - 1L; Elo: 1749.00 
+penn: 0W - 1L; Elo: 1671.00 
+providence: 1W - 1L; Elo: 1822.00 
+purdue: 3W - 1L; Elo: 1916.00 
+radford: 1W - 1L; Elo: 1541.00 
+rhode island: 1W - 1L; Elo: 1798.00 
+san diego state: 0W - 1L; Elo: 1778.00 
+seton hall: 1W - 1L; Elo: 1789.00 
+south dakota state: 0W - 1L; Elo: 1763.00 
+st. bonaventure: 0W - 1L; Elo: 1799.00 
+stephen f. austin: 0W - 1L; Elo: 1634.00 
+syracuse: 1W - 1L; Elo: 1748.00 
+tcu: 1W - 1L; Elo: 1824.00 
+tennessee: 2W - 1L; Elo: 1890.00 
+texas: 1W - 1L; Elo: 1807.00 
+texas a&m: 0W - 1L; Elo: 1796.00 
+texas southern: 1W - 1L; Elo: 1439.00 
+texas tech: 2W - 1L; Elo: 1862.00 
+ucla: 1W - 1L; Elo: 1800.00 
+umbc: 0W - 1L; Elo: 1626.00 
+villanova: 5W - 1L; Elo: 2008.00 
+virginia: 6W - 0L; Elo: 2082.00 
+virginia tech: 1W - 1L; Elo: 1809.00 
+west virginia: 2W - 1L; Elo: 1903.00 
+wichita state: 1W - 1L; Elo: 1871.00 
+wright state: 0W - 1L; Elo: 1623.00 
+xavier: 3W - 1L; Elo: 1968.00 
+
+ 
+=====Game Results===== 
+Game #1: liu brooklyn vs. radford. The winner was radford
+Game #2: st. bonaventure vs. ucla. The winner was ucla
+Game #3: nc central vs. texas southern. The winner was texas southern
+Game #4: arizona state vs. syracuse. The winner was syracuse
+Game #5: virginia vs. umbc. The winner was virginia
+Game #6: creighton vs. kansas state. The winner was kansas state
+Game #7: kentucky vs. davidson. The winner was kentucky
+Game #8: arizona vs. buffalo. The winner was arizona
+Game #9: miami vs. loyola-chicago. The winner was miami
+Game #10: tennessee vs. wright state. The winner was tennessee
+Game #11: nevada vs. texas. The winner was texas
+Game #12: cincinnati vs. georgia state. The winner was cincinnati
+Game #13: xavier vs. texas southern. The winner was xavier
+Game #14: missouri vs. florida state. The winner was missouri
+Game #15: ohio state vs. south dakota state. The winner was ohio state
+Game #16: gonzaga vs. nc greensboro. The winner was gonzaga
+Game #17: houston vs. san diego state. The winner was houston
+Game #18: michigan vs. montana. The winner was michigan
+Game #19: texas a&m vs. providence. The winner was providence
+Game #20: north carolina vs. lipscomb. The winner was north carolina
+Game #21: villanova vs. radford. The winner was villanova
+Game #22: virginia tech vs. alabama. The winner was virginia tech
+Game #23: west virginia vs. murray state. The winner was west virginia
+Game #24: wichita state vs. marshall. The winner was wichita state
+Game #25: florida vs. ucla. The winner was florida
+Game #26: texas tech vs. stephen f. austin. The winner was texas tech
+Game #27: arkansas vs. butler. The winner was arkansas
+Game #28: purdue vs. cal state fullerton. The winner was purdue
+Game #29: kansas vs. penn. The winner was kansas
+Game #30: seton hall vs. nc state. The winner was seton hall
+Game #31: clemson vs. new mexico state. The winner was clemson
+Game #32: auburn vs. charleston. The winner was auburn
+Game #33: tcu vs. syracuse. The winner was tcu
+Game #34: michigan state vs. bucknell. The winner was michigan state
+Game #35: rhode island vs. oklahoma. The winner was rhode island
+Game #36: duke vs. iona. The winner was duke
+Game #37: virginia vs. kansas state. The winner was virginia
+Game #38: kentucky vs. arizona. The winner was arizona
+Game #39: miami vs. tennessee. The winner was tennessee
+Game #40: texas vs. cincinnati. The winner was cincinnati
+Game #41: xavier vs. missouri. The winner was xavier
+Game #42: ohio state vs. gonzaga. The winner was gonzaga
+Game #43: houston vs. michigan. The winner was michigan
+Game #44: providence vs. north carolina. The winner was north carolina
+Game #45: villanova vs. virginia tech. The winner was villanova
+Game #46: west virginia vs. wichita state. The winner was west virginia
+Game #47: florida vs. texas tech. The winner was texas tech
+Game #48: arkansas vs. purdue. The winner was purdue
+Game #49: kansas vs. seton hall. The winner was kansas
+Game #50: clemson vs. auburn. The winner was clemson
+Game #51: tcu vs. michigan state. The winner was michigan state
+Game #52: rhode island vs. duke. The winner was duke
+Game #53: virginia vs. arizona. The winner was virginia
+Game #54: tennessee vs. cincinnati. The winner was cincinnati
+Game #55: xavier vs. gonzaga. The winner was xavier
+Game #56: michigan vs. north carolina. The winner was michigan
+Game #57: villanova vs. west virginia. The winner was villanova
+Game #58: texas tech vs. purdue. The winner was purdue
+Game #59: kansas vs. clemson. The winner was kansas
+Game #60: michigan state vs. duke. The winner was michigan state
+Game #61: virginia vs. cincinnati. The winner was virginia
+Game #62: xavier vs. michigan. The winner was michigan
+Game #63: villanova vs. purdue. The winner was villanova
+Game #64: kansas vs. michigan state. The winner was kansas
+Game #65: virginia vs. michigan. The winner was virginia
+Game #66: villanova vs. kansas. The winner was villanova
+Game #67: virginia vs. villanova. The winner was virginia
+
+User entered 2
+User entered 3
+User chose simulation option 3
+Simulated Tournament: 
+=====Team Results===== 
+alabama: 0W - 1L; Elo: 1763.00 
+arizona: 2W - 1L; Elo: 1944.00 
+arizona state: 0W - 1L; Elo: 1648.00 
+arkansas: 1W - 1L; Elo: 1845.00 
+auburn: 1W - 1L; Elo: 1793.00 
+bucknell: 0W - 1L; Elo: 1708.00 
+buffalo: 0W - 1L; Elo: 1740.00 
+butler: 0W - 1L; Elo: 1771.00 
+cal state fullerton: 0W - 1L; Elo: 1573.00 
+charleston: 0W - 1L; Elo: 1739.00 
+cincinnati: 3W - 1L; Elo: 1978.00 
+clemson: 2W - 1L; Elo: 1813.00 
+creighton: 0W - 1L; Elo: 1765.00 
+davidson: 0W - 1L; Elo: 1778.00 
+duke: 2W - 1L; Elo: 1932.00 
+florida: 1W - 1L; Elo: 1814.00 
+florida state: 0W - 1L; Elo: 1758.00 
+georgia state: 0W - 1L; Elo: 1621.00 
+gonzaga: 2W - 1L; Elo: 1931.00 
+houston: 1W - 1L; Elo: 1842.00 
+iona: 0W - 1L; Elo: 1565.00 
+kansas: 4W - 1L; Elo: 2005.00 
+kansas state: 1W - 1L; Elo: 1838.00 
+kentucky: 1W - 1L; Elo: 1914.00 
+lipscomb: 0W - 1L; Elo: 1609.00 
+liu brooklyn: 0W - 1L; Elo: 1465.00 
+loyola-chicago: 0W - 1L; Elo: 1821.00 
+marshall: 0W - 1L; Elo: 1697.00 
+miami: 1W - 1L; Elo: 1862.00 
+michigan: 4W - 1L; Elo: 1978.00 
+michigan state: 3W - 1L; Elo: 1992.00 
+missouri: 1W - 1L; Elo: 1774.00 
+montana: 0W - 1L; Elo: 1681.00 
+murray state: 0W - 1L; Elo: 1710.00 
+nc central: 0W - 1L; Elo: 1390.00 
+nc greensboro: 0W - 1L; Elo: 1726.00 
+nc state: 0W - 1L; Elo: 1765.00 
+nevada: 0W - 1L; Elo: 1789.00 
+new mexico state: 0W - 1L; Elo: 1755.00 
+north carolina: 2W - 1L; Elo: 1923.00 
+ohio state: 1W - 1L; Elo: 1808.00 
+oklahoma: 0W - 1L; Elo: 1749.00 
+penn: 0W - 1L; Elo: 1671.00 
+providence: 1W - 1L; Elo: 1822.00 
+purdue: 3W - 1L; Elo: 1916.00 
+radford: 1W - 1L; Elo: 1541.00 
+rhode island: 1W - 1L; Elo: 1798.00 
+san diego state: 0W - 1L; Elo: 1778.00 
+seton hall: 1W - 1L; Elo: 1789.00 
+south dakota state: 0W - 1L; Elo: 1763.00 
+st. bonaventure: 0W - 1L; Elo: 1799.00 
+stephen f. austin: 0W - 1L; Elo: 1634.00 
+syracuse: 1W - 1L; Elo: 1748.00 
+tcu: 1W - 1L; Elo: 1824.00 
+tennessee: 2W - 1L; Elo: 1890.00 
+texas: 1W - 1L; Elo: 1807.00 
+texas a&m: 0W - 1L; Elo: 1796.00 
+texas southern: 1W - 1L; Elo: 1439.00 
+texas tech: 2W - 1L; Elo: 1862.00 
+ucla: 1W - 1L; Elo: 1800.00 
+umbc: 0W - 1L; Elo: 1626.00 
+villanova: 5W - 1L; Elo: 2008.00 
+virginia: 6W - 0L; Elo: 2082.00 
+virginia tech: 1W - 1L; Elo: 1809.00 
+west virginia: 2W - 1L; Elo: 1903.00 
+wichita state: 1W - 1L; Elo: 1871.00 
+wright state: 0W - 1L; Elo: 1623.00 
+xavier: 3W - 1L; Elo: 1968.00 
+
+ 
+=====Game Results===== 
+Game #1: liu brooklyn vs. radford. The winner was radford
+Game #2: st. bonaventure vs. ucla. The winner was ucla
+Game #3: nc central vs. texas southern. The winner was texas southern
+Game #4: arizona state vs. syracuse. The winner was syracuse
+Game #5: virginia vs. umbc. The winner was virginia
+Game #6: creighton vs. kansas state. The winner was kansas state
+Game #7: kentucky vs. davidson. The winner was kentucky
+Game #8: arizona vs. buffalo. The winner was arizona
+Game #9: miami vs. loyola-chicago. The winner was miami
+Game #10: tennessee vs. wright state. The winner was tennessee
+Game #11: nevada vs. texas. The winner was texas
+Game #12: cincinnati vs. georgia state. The winner was cincinnati
+Game #13: xavier vs. texas southern. The winner was xavier
+Game #14: missouri vs. florida state. The winner was missouri
+Game #15: ohio state vs. south dakota state. The winner was ohio state
+Game #16: gonzaga vs. nc greensboro. The winner was gonzaga
+Game #17: houston vs. san diego state. The winner was houston
+Game #18: michigan vs. montana. The winner was michigan
+Game #19: texas a&m vs. providence. The winner was providence
+Game #20: north carolina vs. lipscomb. The winner was north carolina
+Game #21: villanova vs. radford. The winner was villanova
+Game #22: virginia tech vs. alabama. The winner was virginia tech
+Game #23: west virginia vs. murray state. The winner was west virginia
+Game #24: wichita state vs. marshall. The winner was wichita state
+Game #25: florida vs. ucla. The winner was florida
+Game #26: texas tech vs. stephen f. austin. The winner was texas tech
+Game #27: arkansas vs. butler. The winner was arkansas
+Game #28: purdue vs. cal state fullerton. The winner was purdue
+Game #29: kansas vs. penn. The winner was kansas
+Game #30: seton hall vs. nc state. The winner was seton hall
+Game #31: clemson vs. new mexico state. The winner was clemson
+Game #32: auburn vs. charleston. The winner was auburn
+Game #33: tcu vs. syracuse. The winner was tcu
+Game #34: michigan state vs. bucknell. The winner was michigan state
+Game #35: rhode island vs. oklahoma. The winner was rhode island
+Game #36: duke vs. iona. The winner was duke
+Game #37: virginia vs. kansas state. The winner was virginia
+Game #38: kentucky vs. arizona. The winner was arizona
+Game #39: miami vs. tennessee. The winner was tennessee
+Game #40: texas vs. cincinnati. The winner was cincinnati
+Game #41: xavier vs. missouri. The winner was xavier
+Game #42: ohio state vs. gonzaga. The winner was gonzaga
+Game #43: houston vs. michigan. The winner was michigan
+Game #44: providence vs. north carolina. The winner was north carolina
+Game #45: villanova vs. virginia tech. The winner was villanova
+Game #46: west virginia vs. wichita state. The winner was west virginia
+Game #47: florida vs. texas tech. The winner was texas tech
+Game #48: arkansas vs. purdue. The winner was purdue
+Game #49: kansas vs. seton hall. The winner was kansas
+Game #50: clemson vs. auburn. The winner was clemson
+Game #51: tcu vs. michigan state. The winner was michigan state
+Game #52: rhode island vs. duke. The winner was duke
+Game #53: virginia vs. arizona. The winner was virginia
+Game #54: tennessee vs. cincinnati. The winner was cincinnati
+Game #55: xavier vs. gonzaga. The winner was xavier
+Game #56: michigan vs. north carolina. The winner was michigan
+Game #57: villanova vs. west virginia. The winner was villanova
+Game #58: texas tech vs. purdue. The winner was purdue
+Game #59: kansas vs. clemson. The winner was kansas
+Game #60: michigan state vs. duke. The winner was michigan state
+Game #61: virginia vs. cincinnati. The winner was virginia
+Game #62: xavier vs. michigan. The winner was michigan
+Game #63: villanova vs. purdue. The winner was villanova
+Game #64: kansas vs. michigan state. The winner was kansas
+Game #65: virginia vs. michigan. The winner was virginia
+Game #66: villanova vs. kansas. The winner was villanova
+Game #67: virginia vs. villanova. The winner was virginia
+
+System starting up with args eloMen.csv gamesMen.csv log.txt
+User entered 1
+User entered 
+User entered duke
+User entered penn
+duke beat penn by simulation
+User entered 4
+User chose to exit. System exiting

@@ -1,0 +1,58 @@
+Time: 22/01/18 23:43:57: program started with args all_tweets.txt states.csv test4.txt 
+Time: 22/01/18 23:44:03: user chose option #4
+Time: 22/01/18 23:44:03: program ended
+Time: 22/01/18 23:44:10: program started with args all_tweets.txt states.csv test4.txt 
+Time: 22/01/18 23:44:14: user chose option #2
+Time: 22/01/18 23:44:14: user entered n
+Time: 22/01/18 23:44:15: user entered ngf
+Time: 22/01/18 23:44:15: user entered dfgh
+Time: 22/01/18 23:44:16: user entered rth
+Time: 22/01/18 23:44:16: user entered rth
+Time: 22/01/18 23:44:16: user entered rt
+Time: 22/01/18 23:44:17: user entered idaho
+Time: 22/01/18 23:44:17: user successfully searched for idaho
+Time: 22/01/18 23:44:18: user chose option #4
+Time: 22/01/18 23:44:18: program ended
+Time: 22/01/18 23:46:03:463463463: program started with args all_tweets.txt states.csv test4.txt 
+Time: 22/01/18 23:46:06:466466466: user chose option #4
+Time: 22/01/18 23:46:06:466466466: program ended
+Time: 22/01/18 23:46:31:4631: program started with args all_tweets.txt states.csv test4.txt 
+Time: 22/01/18 23:46:34:4634: user chose option #4
+Time: 22/01/18 23:46:34:4634: program ended
+Time: 22/01/18 23:47:47:430: program started with args all_tweets.txt states.csv test4.txt 
+Time: 22/01/18 23:47:50:198: user chose option #1
+Time: 22/01/18 23:47:50:946: user chose option #4
+Time: 22/01/18 23:47:50:947: program ended
+Time: 23/01/18 16:06:41:608: program started with args all_tweets.txt states.csv test4.txt 
+Time: 23/01/18 16:07:01:487: user chose option #1
+Time: 23/01/18 16:07:23:865: user chose option #2
+Time: 23/01/18 16:07:29:493: user entered New Jersey 2
+Time: 23/01/18 16:07:38:935: user entered New Jersey
+Time: 23/01/18 16:07:38:950: user successfully searched for New Jersey
+Time: 23/01/18 16:08:14:339: user chose option #3
+Time: 23/01/18 16:08:17:388: user searched for irene
+Time: 23/01/18 16:08:34:31: user chose option #2
+Time: 23/01/18 16:08:37:806: user entered California
+Time: 23/01/18 16:08:37:814: user successfully searched for California
+Time: 23/01/18 16:08:48:801: user entered invalid menu key
+Time: 23/01/18 16:08:54:115: user chose option #3
+Time: 23/01/18 16:08:57:194: user searched for jonathan levine
+Time: 23/01/18 16:09:04:63: user chose option #2
+Time: 23/01/18 16:09:06:987: user entered france
+Time: 23/01/18 16:09:10:626: user entered paris
+Time: 23/01/18 16:09:18:27: user entered puerto rico
+Time: 23/01/18 16:09:20:699: user entered hawaii
+Time: 23/01/18 16:09:20:702: user successfully searched for hawaii
+Time: 23/01/18 16:09:26:408: user chose option #3
+Time: 23/01/18 16:09:27:804: user searched for vma
+Time: 23/01/18 16:09:43:238: user chose option #4
+Time: 23/01/18 16:09:43:239: program ended
+26/01/18 12:02:04:762: program started with args all_tweets.txt states.csv test4.txt 
+26/01/18 12:02:09:201: user chose option #1
+26/01/18 12:02:10:633: user chose option #2
+26/01/18 12:02:13:402: user entered kentucky
+26/01/18 12:02:13:409: user successfully searched for kentucky
+26/01/18 12:02:15:506: user chose option #3
+26/01/18 12:02:17:171: user searched for hi
+26/01/18 12:02:20:67: user chose option #4
+26/01/18 12:02:20:68: program ended
