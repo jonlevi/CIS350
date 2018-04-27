@@ -1,6 +1,5 @@
 package edu.upenn.cis350.hwk6;
 
-import java.util.Arrays;
 
 public class Main {
 
